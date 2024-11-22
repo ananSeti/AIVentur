@@ -1,0 +1,1247 @@
+2024-11-03 18:22:52,306 - [Elapsed time 0.358931s]login - success
+2024-11-03 18:37:01,010 - [Elapsed time 0.294673s]login - success
+2024-11-03 18:38:00,485 - Error fetch SETTRADE Account balance: 'InvestorDerivatives' object is not subscriptable
+2024-11-03 18:39:59,299 - [Elapsed time 0.254492s]login - success
+2024-11-03 18:40:42,546 - Error fetch SETTRADE Account balance: 'InvestorDerivatives' object is not subscriptable
+2024-11-03 18:56:29,544 - [Elapsed time 0.278345s]login - success
+2024-11-03 18:57:25,262 - [Elapsed time 0.228446s]login - success
+2024-11-03 19:03:58,039 - [Elapsed time 0.281144s]login - success
+2024-11-03 19:04:01,708 - [Elapsed time 0.141419s]get_account_info - success
+2024-11-03 19:04:19,214 - Current balance: $2000000000.0
+2024-11-03 19:28:30,354 - [Elapsed time 0.253907s]login - success
+2024-11-03 19:28:30,431 - [Elapsed time 0.076629s]get_account_info - success
+2024-11-03 19:28:30,431 - Current balance: $10000000.0
+2024-11-03 19:29:02,141 - [Elapsed time 0.233828s]login - success
+2024-11-03 19:29:02,224 - [Elapsed time 0.083082s]get_account_info - success
+2024-11-03 19:29:02,224 - Current balance: $10000000.0
+2024-11-10 13:04:20,018 - [Elapsed time 0.203152s]login - success
+2024-11-10 13:04:33,029 - [Elapsed time 0.120993s]get_account_info - success
+2024-11-10 13:04:33,029 - Current balance: $10000000.0
+2024-11-10 13:04:43,849 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:04:43,850 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:04:43,856 -  * Restarting with stat
+2024-11-10 13:04:45,647 - [Elapsed time 0.228357s]login - success
+2024-11-10 13:04:45,737 - [Elapsed time 0.089799s]get_account_info - success
+2024-11-10 13:04:45,739 - Current balance: $10000000.0
+2024-11-10 13:04:48,088 -  * Debugger is active!
+2024-11-10 13:04:48,095 -  * Debugger PIN: 795-788-126
+2024-11-10 13:05:07,576 - 127.0.0.1 - - [10/Nov/2024 13:05:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:05:07,834 - 127.0.0.1 - - [10/Nov/2024 13:05:07] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 13:05:07,838 - 127.0.0.1 - - [10/Nov/2024 13:05:07] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 13:05:07,880 - 127.0.0.1 - - [10/Nov/2024 13:05:07] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=FpJ9qn0l1QUm5DFlZPU0 HTTP/1.1" 200 -
+2024-11-10 13:05:07,890 - 127.0.0.1 - - [10/Nov/2024 13:05:07] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 13:05:35,428 - 127.0.0.1 - - [10/Nov/2024 13:05:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:05:35,454 - 127.0.0.1 - - [10/Nov/2024 13:05:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:05:35,456 - 127.0.0.1 - - [10/Nov/2024 13:05:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:05:35,468 - 127.0.0.1 - - [10/Nov/2024 13:05:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=FpJ9qn0l1QUm5DFlZPU0 HTTP/1.1[0m" 304 -
+2024-11-10 13:06:07,288 - [Elapsed time 0.216588s]login - success
+2024-11-10 13:06:07,386 - [Elapsed time 0.097606s]get_account_info - success
+2024-11-10 13:06:07,391 - Current balance: $10000000.0
+2024-11-10 13:06:12,288 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:06:12,288 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:06:12,288 -  * Restarting with stat
+2024-11-10 13:06:14,125 - [Elapsed time 0.217396s]login - success
+2024-11-10 13:06:14,209 - [Elapsed time 0.083318s]get_account_info - success
+2024-11-10 13:06:14,209 - Current balance: $10000000.0
+2024-11-10 13:06:14,235 -  * Debugger is active!
+2024-11-10 13:06:14,235 -  * Debugger PIN: 795-788-126
+2024-11-10 13:06:15,648 - 127.0.0.1 - - [10/Nov/2024 13:06:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:06:15,787 - 127.0.0.1 - - [10/Nov/2024 13:06:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:06:15,788 - 127.0.0.1 - - [10/Nov/2024 13:06:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:06:15,802 - 127.0.0.1 - - [10/Nov/2024 13:06:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=m4bDROFonJ00ZCPfylcp HTTP/1.1" 200 -
+2024-11-10 13:06:32,492 - [Elapsed time 0.189998s]login - success
+2024-11-10 13:06:32,571 - [Elapsed time 0.078508s]get_account_info - success
+2024-11-10 13:06:32,571 - Current balance: $10000000.0
+2024-11-10 13:06:32,605 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:06:32,605 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:06:32,606 -  * Restarting with stat
+2024-11-10 13:06:34,513 - [Elapsed time 0.190364s]login - success
+2024-11-10 13:06:34,584 - [Elapsed time 0.069876s]get_account_info - success
+2024-11-10 13:06:34,585 - Current balance: $10000000.0
+2024-11-10 13:06:34,604 -  * Debugger is active!
+2024-11-10 13:06:34,609 -  * Debugger PIN: 795-788-126
+2024-11-10 13:06:44,585 - [Elapsed time 0.207810s]login - success
+2024-11-10 13:06:44,660 - [Elapsed time 0.074347s]get_account_info - success
+2024-11-10 13:06:44,660 - Current balance: $10000000.0
+2024-11-10 13:06:44,685 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:06:44,685 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:06:44,688 -  * Restarting with stat
+2024-11-10 13:06:46,561 - [Elapsed time 0.184150s]login - success
+2024-11-10 13:06:46,632 - [Elapsed time 0.071355s]get_account_info - success
+2024-11-10 13:06:46,632 - Current balance: $10000000.0
+2024-11-10 13:06:46,648 -  * Debugger is active!
+2024-11-10 13:06:46,648 -  * Debugger PIN: 795-788-126
+2024-11-10 13:06:51,795 - 127.0.0.1 - - [10/Nov/2024 13:06:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:06:51,941 - 127.0.0.1 - - [10/Nov/2024 13:06:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:06:51,952 - 127.0.0.1 - - [10/Nov/2024 13:06:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:06:51,965 - 127.0.0.1 - - [10/Nov/2024 13:06:51] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=o6VFEmAiZt8QbBVwX2MW HTTP/1.1" 200 -
+2024-11-10 13:07:21,521 - [Elapsed time 0.226935s]login - success
+2024-11-10 13:07:21,604 - [Elapsed time 0.083068s]get_account_info - success
+2024-11-10 13:07:21,604 - Current balance: $10000000.0
+2024-11-10 13:07:21,633 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:07:21,634 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:07:21,635 -  * Restarting with stat
+2024-11-10 13:07:23,506 - [Elapsed time 0.246421s]login - success
+2024-11-10 13:07:23,597 - [Elapsed time 0.091314s]get_account_info - success
+2024-11-10 13:07:23,597 - Current balance: $10000000.0
+2024-11-10 13:07:23,616 -  * Debugger is active!
+2024-11-10 13:07:23,629 -  * Debugger PIN: 795-788-126
+2024-11-10 13:07:25,733 - 127.0.0.1 - - [10/Nov/2024 13:07:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:07:25,886 - 127.0.0.1 - - [10/Nov/2024 13:07:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:07:25,887 - 127.0.0.1 - - [10/Nov/2024 13:07:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:07:25,901 - 127.0.0.1 - - [10/Nov/2024 13:07:25] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=2K6hiUPce1TC0pk64VAI HTTP/1.1" 200 -
+2024-11-10 13:07:26,966 - 127.0.0.1 - - [10/Nov/2024 13:07:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:07:26,989 - 127.0.0.1 - - [10/Nov/2024 13:07:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:07:26,991 - 127.0.0.1 - - [10/Nov/2024 13:07:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:07:27,004 - 127.0.0.1 - - [10/Nov/2024 13:07:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=2K6hiUPce1TC0pk64VAI HTTP/1.1[0m" 304 -
+2024-11-10 13:08:23,421 -  * Detected change in 'D:\\Bot\\app.py', reloading
+2024-11-10 13:08:29,916 -  * Restarting with stat
+2024-11-10 13:09:38,509 - [Elapsed time 0.222943s]login - success
+2024-11-10 13:09:38,604 - [Elapsed time 0.095416s]get_account_info - success
+2024-11-10 13:09:38,604 - Current balance: $10000000.0
+2024-11-10 13:09:38,636 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:09:38,636 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:09:38,637 -  * Restarting with stat
+2024-11-10 13:09:40,555 - [Elapsed time 0.183243s]login - success
+2024-11-10 13:09:40,650 - [Elapsed time 0.095066s]get_account_info - success
+2024-11-10 13:09:40,650 - Current balance: $10000000.0
+2024-11-10 13:09:40,665 -  * Debugger is active!
+2024-11-10 13:09:40,665 -  * Debugger PIN: 795-788-126
+2024-11-10 13:09:42,361 - 127.0.0.1 - - [10/Nov/2024 13:09:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:09:42,482 - 127.0.0.1 - - [10/Nov/2024 13:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:09:42,482 - 127.0.0.1 - - [10/Nov/2024 13:09:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:09:42,508 - 127.0.0.1 - - [10/Nov/2024 13:09:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=1PGqmXFnYuQnJohDkNqV HTTP/1.1" 200 -
+2024-11-10 13:12:17,174 - [Elapsed time 0.223264s]login - success
+2024-11-10 13:12:17,253 - [Elapsed time 0.078729s]get_account_info - success
+2024-11-10 13:12:17,253 - Current balance: $10000000.0
+2024-11-10 13:12:17,291 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:12:17,291 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:12:17,295 -  * Restarting with stat
+2024-11-10 13:12:18,900 - [Elapsed time 0.196802s]login - success
+2024-11-10 13:12:18,981 - [Elapsed time 0.080493s]get_account_info - success
+2024-11-10 13:12:18,981 - Current balance: $10000000.0
+2024-11-10 13:12:18,995 -  * Debugger is active!
+2024-11-10 13:12:19,002 -  * Debugger PIN: 795-788-126
+2024-11-10 13:12:21,074 - 127.0.0.1 - - [10/Nov/2024 13:12:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:12:21,229 - 127.0.0.1 - - [10/Nov/2024 13:12:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:12:21,230 - 127.0.0.1 - - [10/Nov/2024 13:12:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:12:21,245 - 127.0.0.1 - - [10/Nov/2024 13:12:21] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ipdvvP0b3Ukf5zc987jS HTTP/1.1" 200 -
+2024-11-10 13:16:51,934 - [Elapsed time 0.224863s]login - success
+2024-11-10 13:16:52,037 - [Elapsed time 0.102040s]get_account_info - success
+2024-11-10 13:16:52,037 - Current balance: $10000000.0
+2024-11-10 13:16:52,057 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:16:52,057 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:16:52,057 -  * Restarting with stat
+2024-11-10 13:16:53,728 - [Elapsed time 0.214345s]login - success
+2024-11-10 13:16:53,807 - [Elapsed time 0.078480s]get_account_info - success
+2024-11-10 13:16:53,807 - Current balance: $10000000.0
+2024-11-10 13:16:53,844 -  * Debugger is active!
+2024-11-10 13:16:53,847 -  * Debugger PIN: 795-788-126
+2024-11-10 13:17:05,258 - [Elapsed time 0.191922s]login - success
+2024-11-10 13:17:05,336 - [Elapsed time 0.077711s]get_account_info - success
+2024-11-10 13:17:05,336 - Current balance: $10000000.0
+2024-11-10 13:17:05,381 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:17:05,381 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:17:05,381 -  * Restarting with stat
+2024-11-10 13:17:07,046 - [Elapsed time 0.198689s]login - success
+2024-11-10 13:17:07,126 - [Elapsed time 0.079164s]get_account_info - success
+2024-11-10 13:17:07,127 - Current balance: $10000000.0
+2024-11-10 13:17:07,149 -  * Debugger is active!
+2024-11-10 13:17:07,154 -  * Debugger PIN: 795-788-126
+2024-11-10 13:17:53,686 - [Elapsed time 0.217411s]login - success
+2024-11-10 13:17:53,781 - [Elapsed time 0.095052s]get_account_info - success
+2024-11-10 13:17:53,781 - Current balance: $10000000.0
+2024-11-10 13:23:23,070 - [Elapsed time 0.204986s]login - success
+2024-11-10 13:23:23,174 - [Elapsed time 0.103723s]get_account_info - success
+2024-11-10 13:23:23,174 - Current balance: $10000000.0
+2024-11-10 13:23:30,141 - Error fetching current price for BBL: 'InvestorEquity' object has no attribute 'MarketData'  
+2024-11-10 13:30:22,850 - [Elapsed time 0.201636s]login - success
+2024-11-10 13:30:22,961 - [Elapsed time 0.096475s]get_account_info - success
+2024-11-10 13:30:22,961 - Current balance: $10000000.0
+2024-11-10 13:30:34,023 - [Elapsed time 0.139427s]get_candlestick - success
+2024-11-10 13:31:11,626 - [Elapsed time 0.189543s]login - success
+2024-11-10 13:31:11,719 - [Elapsed time 0.092987s]get_account_info - success
+2024-11-10 13:31:11,719 - Current balance: $10000000.0
+2024-11-10 13:31:17,671 - [Elapsed time 0.115051s]get_candlestick - success
+2024-11-10 13:32:34,954 - [Elapsed time 0.213072s]login - success
+2024-11-10 13:32:35,050 - [Elapsed time 0.096009s]get_account_info - success
+2024-11-10 13:32:35,050 - Current balance: $10000000.0
+2024-11-10 13:32:35,075 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:32:35,075 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:32:35,082 -  * Restarting with stat
+2024-11-10 13:32:36,778 - [Elapsed time 0.188132s]login - success
+2024-11-10 13:32:36,853 - [Elapsed time 0.074700s]get_account_info - success
+2024-11-10 13:32:36,853 - Current balance: $10000000.0
+2024-11-10 13:32:36,884 -  * Debugger is active!
+2024-11-10 13:32:36,884 -  * Debugger PIN: 795-788-126
+2024-11-10 13:32:47,164 - 127.0.0.1 - - [10/Nov/2024 13:32:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:32:47,318 - 127.0.0.1 - - [10/Nov/2024 13:32:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:32:47,318 - 127.0.0.1 - - [10/Nov/2024 13:32:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:32:47,332 - 127.0.0.1 - - [10/Nov/2024 13:32:47] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=tNITCEkahqkVPRnbuhSq HTTP/1.1" 200 -
+2024-11-10 13:33:15,393 - 127.0.0.1 - - [10/Nov/2024 13:33:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:33:15,407 - 127.0.0.1 - - [10/Nov/2024 13:33:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:33:15,407 - 127.0.0.1 - - [10/Nov/2024 13:33:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:33:15,429 - 127.0.0.1 - - [10/Nov/2024 13:33:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=tNITCEkahqkVPRnbuhSq HTTP/1.1[0m" 304 -
+2024-11-10 13:34:10,989 - [Elapsed time 0.214162s]login - success
+2024-11-10 13:34:11,079 - [Elapsed time 0.084474s]get_account_info - success
+2024-11-10 13:34:11,079 - Current balance: $10000000.0
+2024-11-10 13:34:11,108 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:34:11,109 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:34:11,110 -  * Restarting with stat
+2024-11-10 13:34:12,959 - [Elapsed time 0.220628s]login - success
+2024-11-10 13:34:13,049 - [Elapsed time 0.089918s]get_account_info - success
+2024-11-10 13:34:13,049 - Current balance: $10000000.0
+2024-11-10 13:34:13,070 -  * Debugger is active!
+2024-11-10 13:34:13,075 -  * Debugger PIN: 795-788-126
+2024-11-10 13:34:33,885 - [Elapsed time 0.111018s]get_candlestick - success
+2024-11-10 13:34:33,906 - 127.0.0.1 - - [10/Nov/2024 13:34:33] "GET / HTTP/1.1" 200 -
+2024-11-10 13:34:33,997 - 127.0.0.1 - - [10/Nov/2024 13:34:33] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-10 13:34:44,555 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:34:52,888 - [Elapsed time 0.200099s]login - success
+2024-11-10 13:34:52,982 - [Elapsed time 0.094287s]get_account_info - success
+2024-11-10 13:34:52,982 - Current balance: $10000000.0
+2024-11-10 13:34:53,023 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:34:53,023 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:34:53,023 -  * Restarting with stat
+2024-11-10 13:34:54,716 - [Elapsed time 0.201969s]login - success
+2024-11-10 13:34:54,796 - [Elapsed time 0.080017s]get_account_info - success
+2024-11-10 13:34:54,797 - Current balance: $10000000.0
+2024-11-10 13:34:54,818 -  * Debugger is active!
+2024-11-10 13:34:54,819 -  * Debugger PIN: 795-788-126
+2024-11-10 13:35:16,112 - [Elapsed time 0.117630s]get_candlestick - success
+2024-11-10 13:35:56,546 - 127.0.0.1 - - [10/Nov/2024 13:35:56] "GET / HTTP/1.1" 200 -
+2024-11-10 13:35:56,635 - 127.0.0.1 - - [10/Nov/2024 13:35:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:36:53,850 - [Elapsed time 0.222965s]login - success
+2024-11-10 13:36:53,943 - [Elapsed time 0.077791s]get_account_info - success
+2024-11-10 13:36:53,943 - Current balance: $10000000.0
+2024-11-10 13:36:53,976 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:36:53,976 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:36:53,978 -  * Restarting with stat
+2024-11-10 13:36:55,634 - [Elapsed time 0.180857s]login - success
+2024-11-10 13:36:55,721 - [Elapsed time 0.086622s]get_account_info - success
+2024-11-10 13:36:55,721 - Current balance: $10000000.0
+2024-11-10 13:36:55,742 -  * Debugger is active!
+2024-11-10 13:36:55,742 -  * Debugger PIN: 795-788-126
+2024-11-10 13:37:16,194 - [Elapsed time 0.123413s]get_candlestick - success
+2024-11-10 13:37:17,747 - 127.0.0.1 - - [10/Nov/2024 13:37:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:37:17,878 - 127.0.0.1 - - [10/Nov/2024 13:37:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:37:17,879 - 127.0.0.1 - - [10/Nov/2024 13:37:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:37:17,890 - 127.0.0.1 - - [10/Nov/2024 13:37:17] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=rEeOitlVmLwvU13MqaJe HTTP/1.1" 200 -
+2024-11-10 13:37:53,148 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:38:05,781 -  * Restarting with stat
+2024-11-10 13:38:07,501 - [Elapsed time 0.192955s]login - success
+2024-11-10 13:38:07,585 - [Elapsed time 0.084142s]get_account_info - success
+2024-11-10 13:38:07,585 - Current balance: $10000000.0
+2024-11-10 13:38:30,438 - [Elapsed time 0.220299s]login - success
+2024-11-10 13:38:30,516 - [Elapsed time 0.078368s]get_account_info - success
+2024-11-10 13:38:30,516 - Current balance: $10000000.0
+2024-11-10 13:38:30,555 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:38:30,556 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:38:30,558 -  * Restarting with stat
+2024-11-10 13:38:32,257 - [Elapsed time 0.205697s]login - success
+2024-11-10 13:38:32,336 - [Elapsed time 0.079799s]get_account_info - success
+2024-11-10 13:38:32,336 - Current balance: $10000000.0
+2024-11-10 13:38:32,352 -  * Debugger is active!
+2024-11-10 13:38:32,352 -  * Debugger PIN: 795-788-126
+2024-11-10 13:38:36,649 - [Elapsed time 0.090146s]get_candlestick - success
+2024-11-10 13:38:36,665 - 127.0.0.1 - - [10/Nov/2024 13:38:36] "GET / HTTP/1.1" 200 -
+2024-11-10 13:38:36,742 - 127.0.0.1 - - [10/Nov/2024 13:38:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:47:32,940 - [Elapsed time 0.257549s]login - success
+2024-11-10 13:47:33,034 - [Elapsed time 0.094534s]get_account_info - success
+2024-11-10 13:47:33,034 - Current balance: $('%.2f', {10000000.0})
+2024-11-10 13:47:33,070 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:47:33,070 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:47:33,073 -  * Restarting with stat
+2024-11-10 13:47:34,756 - [Elapsed time 0.205957s]login - success
+2024-11-10 13:47:34,833 - [Elapsed time 0.076723s]get_account_info - success
+2024-11-10 13:47:34,833 - Current balance: $('%.2f', {10000000.0})
+2024-11-10 13:47:34,848 -  * Debugger is active!
+2024-11-10 13:47:34,864 -  * Debugger PIN: 795-788-126
+2024-11-10 13:47:41,438 - [Elapsed time 0.115571s]get_candlestick - success
+2024-11-10 13:47:41,456 - 127.0.0.1 - - [10/Nov/2024 13:47:41] "GET / HTTP/1.1" 200 -
+2024-11-10 13:47:41,526 - 127.0.0.1 - - [10/Nov/2024 13:47:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:50:07,869 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:50:11,246 -  * Restarting with stat
+2024-11-10 13:50:15,511 - [Elapsed time 0.222295s]login - success
+2024-11-10 13:50:15,603 - [Elapsed time 0.091699s]get_account_info - success
+2024-11-10 13:50:15,603 - Current balance: $10000000.0
+2024-11-10 13:50:15,630 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:50:15,630 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:50:15,630 -  * Restarting with stat
+2024-11-10 13:50:17,443 - [Elapsed time 0.190182s]login - success
+2024-11-10 13:50:17,530 - [Elapsed time 0.087188s]get_account_info - success
+2024-11-10 13:50:17,530 - Current balance: $10000000.0
+2024-11-10 13:50:17,553 -  * Debugger is active!
+2024-11-10 13:50:17,553 -  * Debugger PIN: 795-788-126
+2024-11-10 13:50:19,236 - [Elapsed time 0.116516s]get_candlestick - success
+2024-11-10 13:50:19,248 - 127.0.0.1 - - [10/Nov/2024 13:50:19] "GET / HTTP/1.1" 200 -
+2024-11-10 13:50:19,324 - 127.0.0.1 - - [10/Nov/2024 13:50:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:50:21,773 - [Elapsed time 0.062916s]get_candlestick - success
+2024-11-10 13:50:21,773 - 127.0.0.1 - - [10/Nov/2024 13:50:21] "GET / HTTP/1.1" 200 -
+2024-11-10 13:50:21,802 - 127.0.0.1 - - [10/Nov/2024 13:50:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:51:28,272 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:51:30,862 -  * Restarting with stat
+2024-11-10 13:51:32,637 - [Elapsed time 0.228914s]login - success
+2024-11-10 13:51:32,717 - [Elapsed time 0.079459s]get_account_info - success
+2024-11-10 13:51:32,717 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:51:32,732 -  * Debugger is active!
+2024-11-10 13:51:32,748 -  * Debugger PIN: 795-788-126
+2024-11-10 13:51:33,417 - [Elapsed time 0.109903s]get_candlestick - success
+2024-11-10 13:51:33,417 - 127.0.0.1 - - [10/Nov/2024 13:51:33] "GET / HTTP/1.1" 200 -
+2024-11-10 13:51:33,499 - 127.0.0.1 - - [10/Nov/2024 13:51:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:51:39,717 - [Elapsed time 0.222652s]login - success
+2024-11-10 13:51:39,799 - [Elapsed time 0.082384s]get_account_info - success
+2024-11-10 13:51:39,799 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:51:39,844 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:51:39,844 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:51:39,846 -  * Restarting with stat
+2024-11-10 13:51:41,548 - [Elapsed time 0.200078s]login - success
+2024-11-10 13:51:41,618 - [Elapsed time 0.070362s]get_account_info - success
+2024-11-10 13:51:41,618 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:51:41,634 -  * Debugger is active!
+2024-11-10 13:51:41,634 -  * Debugger PIN: 795-788-126
+2024-11-10 13:51:48,044 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:51:50,515 -  * Restarting with stat
+2024-11-10 13:51:52,180 - [Elapsed time 0.211536s]login - success
+2024-11-10 13:51:52,259 - [Elapsed time 0.079304s]get_account_info - success
+2024-11-10 13:51:52,259 - Error fetch SETTRADE Account balance: ','
+2024-11-10 13:51:52,276 -  * Debugger is active!
+2024-11-10 13:51:52,276 -  * Debugger PIN: 795-788-126
+2024-11-10 13:51:52,811 - [Elapsed time 0.110112s]get_candlestick - success
+2024-11-10 13:51:52,831 - 127.0.0.1 - - [10/Nov/2024 13:51:52] "GET / HTTP/1.1" 200 -
+2024-11-10 13:51:52,896 - 127.0.0.1 - - [10/Nov/2024 13:51:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:51:53,270 - [Elapsed time 0.054013s]get_candlestick - success
+2024-11-10 13:51:53,271 - 127.0.0.1 - - [10/Nov/2024 13:51:53] "GET / HTTP/1.1" 200 -
+2024-11-10 13:51:53,283 - 127.0.0.1 - - [10/Nov/2024 13:51:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:52:18,972 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:52:20,061 -  * Restarting with stat
+2024-11-10 13:52:21,814 - [Elapsed time 0.212219s]login - success
+2024-11-10 13:52:21,892 - [Elapsed time 0.078318s]get_account_info - success
+2024-11-10 13:52:21,892 - Error fetch SETTRADE Account balance: Format specifier missing precision
+2024-11-10 13:52:21,924 -  * Debugger is active!
+2024-11-10 13:52:21,924 -  * Debugger PIN: 795-788-126
+2024-11-10 13:52:22,715 - [Elapsed time 0.094279s]get_candlestick - success
+2024-11-10 13:52:22,716 - 127.0.0.1 - - [10/Nov/2024 13:52:22] "GET / HTTP/1.1" 200 -
+2024-11-10 13:52:22,798 - 127.0.0.1 - - [10/Nov/2024 13:52:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:52:23,707 - [Elapsed time 0.066363s]get_candlestick - success
+2024-11-10 13:52:23,707 - 127.0.0.1 - - [10/Nov/2024 13:52:23] "GET / HTTP/1.1" 200 -
+2024-11-10 13:52:23,722 - 127.0.0.1 - - [10/Nov/2024 13:52:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:52:28,297 - [Elapsed time 0.200328s]login - success
+2024-11-10 13:52:28,384 - [Elapsed time 0.081084s]get_account_info - success
+2024-11-10 13:52:28,384 - Error fetch SETTRADE Account balance: Format specifier missing precision
+2024-11-10 13:52:28,412 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:52:28,412 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:52:28,412 -  * Restarting with stat
+2024-11-10 13:52:30,141 - [Elapsed time 0.221744s]login - success
+2024-11-10 13:52:30,220 - [Elapsed time 0.079033s]get_account_info - success
+2024-11-10 13:52:30,220 - Error fetch SETTRADE Account balance: Format specifier missing precision
+2024-11-10 13:52:30,236 -  * Debugger is active!
+2024-11-10 13:52:30,236 -  * Debugger PIN: 795-788-126
+2024-11-10 13:52:30,789 - [Elapsed time 0.095226s]get_candlestick - success
+2024-11-10 13:52:30,789 - 127.0.0.1 - - [10/Nov/2024 13:52:30] "GET / HTTP/1.1" 200 -
+2024-11-10 13:52:30,869 - 127.0.0.1 - - [10/Nov/2024 13:52:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:52:41,730 - [Elapsed time 0.219112s]login - success
+2024-11-10 13:52:41,808 - [Elapsed time 0.077787s]get_account_info - success
+2024-11-10 13:52:41,808 - Current balance: $10000000.0
+2024-11-10 13:52:41,835 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:52:41,835 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:52:41,836 -  * Restarting with stat
+2024-11-10 13:52:43,532 - [Elapsed time 0.204419s]login - success
+2024-11-10 13:52:43,626 - [Elapsed time 0.094437s]get_account_info - success
+2024-11-10 13:52:43,626 - Current balance: $10000000.0
+2024-11-10 13:52:43,642 -  * Debugger is active!
+2024-11-10 13:52:43,642 -  * Debugger PIN: 795-788-126
+2024-11-10 13:52:44,176 - [Elapsed time 0.095006s]get_candlestick - success
+2024-11-10 13:52:44,192 - 127.0.0.1 - - [10/Nov/2024 13:52:44] "GET / HTTP/1.1" 200 -
+2024-11-10 13:52:44,264 - 127.0.0.1 - - [10/Nov/2024 13:52:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:54:03,614 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:54:04,679 -  * Restarting with stat
+2024-11-10 13:54:08,855 - [Elapsed time 0.235587s]login - success
+2024-11-10 13:54:08,934 - [Elapsed time 0.077326s]get_account_info - success
+2024-11-10 13:54:08,934 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:54:08,970 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:54:08,970 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:54:08,972 -  * Restarting with stat
+2024-11-10 13:54:10,808 - [Elapsed time 0.205567s]login - success
+2024-11-10 13:54:10,886 - [Elapsed time 0.078016s]get_account_info - success
+2024-11-10 13:54:10,886 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:54:10,903 -  * Debugger is active!
+2024-11-10 13:54:10,911 -  * Debugger PIN: 795-788-126
+2024-11-10 13:54:11,563 - [Elapsed time 0.109991s]get_candlestick - success
+2024-11-10 13:54:11,581 - 127.0.0.1 - - [10/Nov/2024 13:54:11] "GET / HTTP/1.1" 200 -
+2024-11-10 13:54:11,657 - 127.0.0.1 - - [10/Nov/2024 13:54:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:54:18,340 - [Elapsed time 0.208360s]login - success
+2024-11-10 13:54:18,419 - [Elapsed time 0.078500s]get_account_info - success
+2024-11-10 13:54:18,419 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:54:18,450 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:54:18,450 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:54:18,454 -  * Restarting with stat
+2024-11-10 13:54:20,504 - [Elapsed time 0.216802s]login - success
+2024-11-10 13:54:20,588 - [Elapsed time 0.080265s]get_account_info - success
+2024-11-10 13:54:20,588 - Error fetch SETTRADE Account balance: Invalid format specifier ',2f' for object of type 'float'
+2024-11-10 13:54:20,622 -  * Debugger is active!
+2024-11-10 13:54:20,638 -  * Debugger PIN: 795-788-126
+2024-11-10 13:54:21,219 - [Elapsed time 0.112320s]get_candlestick - success
+2024-11-10 13:54:21,234 - 127.0.0.1 - - [10/Nov/2024 13:54:21] "GET / HTTP/1.1" 200 -
+2024-11-10 13:54:21,299 - 127.0.0.1 - - [10/Nov/2024 13:54:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:54:38,461 - [Elapsed time 0.191482s]login - success
+2024-11-10 13:54:38,531 - [Elapsed time 0.069564s]get_account_info - success
+2024-11-10 13:54:38,532 - Current balance: $10000000.0
+2024-11-10 13:54:38,557 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:54:38,557 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:54:38,560 -  * Restarting with stat
+2024-11-10 13:54:40,452 - [Elapsed time 0.211645s]login - success
+2024-11-10 13:54:40,533 - [Elapsed time 0.079506s]get_account_info - success
+2024-11-10 13:54:40,533 - Current balance: $10000000.0
+2024-11-10 13:54:40,553 -  * Debugger is active!
+2024-11-10 13:54:40,556 -  * Debugger PIN: 795-788-126
+2024-11-10 13:54:42,278 - [Elapsed time 0.096103s]get_candlestick - success
+2024-11-10 13:54:42,300 - 127.0.0.1 - - [10/Nov/2024 13:54:42] "GET / HTTP/1.1" 200 -
+2024-11-10 13:54:42,389 - 127.0.0.1 - - [10/Nov/2024 13:54:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:54:52,364 - [Elapsed time 0.212099s]login - success
+2024-11-10 13:54:52,433 - [Elapsed time 0.069489s]get_account_info - success
+2024-11-10 13:54:52,433 - Error fetch SETTRADE Account balance: could not convert string to float: '10,000,000.00'
+2024-11-10 13:54:52,459 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:54:52,459 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:54:52,461 -  * Restarting with stat
+2024-11-10 13:54:54,289 - [Elapsed time 0.209853s]login - success
+2024-11-10 13:54:54,367 - [Elapsed time 0.076520s]get_account_info - success
+2024-11-10 13:54:54,368 - Error fetch SETTRADE Account balance: could not convert string to float: '10,000,000.00'
+2024-11-10 13:54:54,397 -  * Debugger is active!
+2024-11-10 13:54:54,405 -  * Debugger PIN: 795-788-126
+2024-11-10 13:54:54,964 - [Elapsed time 0.097401s]get_candlestick - success
+2024-11-10 13:54:54,971 - 127.0.0.1 - - [10/Nov/2024 13:54:54] "GET / HTTP/1.1" 200 -
+2024-11-10 13:54:55,054 - 127.0.0.1 - - [10/Nov/2024 13:54:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:55:28,811 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:55:34,846 -  * Restarting with stat
+2024-11-10 13:56:01,868 - [Elapsed time 0.204028s]login - success
+2024-11-10 13:56:01,947 - [Elapsed time 0.079237s]get_account_info - success
+2024-11-10 13:56:01,947 - Error fetch SETTRADE Account balance: could not convert string to float: '10,000,000.00'
+2024-11-10 13:56:01,961 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:56:01,961 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:56:01,961 -  * Restarting with stat
+2024-11-10 13:56:03,117 - [Elapsed time 0.218058s]login - success
+2024-11-10 13:56:03,195 - [Elapsed time 0.078069s]get_account_info - success
+2024-11-10 13:56:03,195 - Error fetch SETTRADE Account balance: could not convert string to float: '10,000,000.00'
+2024-11-10 13:56:03,211 -  * Debugger is active!
+2024-11-10 13:56:03,211 -  * Debugger PIN: 795-788-126
+2024-11-10 13:56:05,203 - [Elapsed time 0.094592s]get_candlestick - success
+2024-11-10 13:56:05,219 - 127.0.0.1 - - [10/Nov/2024 13:56:05] "GET / HTTP/1.1" 200 -
+2024-11-10 13:56:05,297 - 127.0.0.1 - - [10/Nov/2024 13:56:05] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-10 13:56:06,722 - [Elapsed time 0.064379s]get_candlestick - success
+2024-11-10 13:56:06,722 - 127.0.0.1 - - [10/Nov/2024 13:56:06] "GET / HTTP/1.1" 200 -
+2024-11-10 13:56:06,738 - 127.0.0.1 - - [10/Nov/2024 13:56:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:56:17,775 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:56:17,823 -  * Restarting with stat
+2024-11-10 13:56:19,091 - [Elapsed time 0.217316s]login - success
+2024-11-10 13:56:19,172 - [Elapsed time 0.081414s]get_account_info - success
+2024-11-10 13:56:19,172 - Current balance: $10000000.0
+2024-11-10 13:56:19,196 -  * Debugger is active!
+2024-11-10 13:56:19,198 -  * Debugger PIN: 795-788-126
+2024-11-10 13:56:20,989 - [Elapsed time 0.079562s]get_candlestick - success
+2024-11-10 13:56:20,989 - 127.0.0.1 - - [10/Nov/2024 13:56:20] "GET / HTTP/1.1" 200 -
+2024-11-10 13:56:21,077 - 127.0.0.1 - - [10/Nov/2024 13:56:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:56:50,404 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:56:50,456 -  * Restarting with stat
+2024-11-10 13:56:51,417 - [Elapsed time 0.183508s]login - success
+2024-11-10 13:56:51,503 - [Elapsed time 0.085305s]get_account_info - success
+2024-11-10 13:56:51,503 - Current balance: $10000000.0
+2024-11-10 13:56:51,517 -  * Debugger is active!
+2024-11-10 13:56:51,519 -  * Debugger PIN: 795-788-126
+2024-11-10 13:56:54,417 - [Elapsed time 0.081750s]get_candlestick - success
+2024-11-10 13:56:54,417 - 127.0.0.1 - - [10/Nov/2024 13:56:54] "GET / HTTP/1.1" 200 -
+2024-11-10 13:56:54,498 - 127.0.0.1 - - [10/Nov/2024 13:56:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:57:44,420 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-10 13:57:44,467 -  * Restarting with stat
+2024-11-10 13:57:45,460 - [Elapsed time 0.227889s]login - success
+2024-11-10 13:57:45,548 - [Elapsed time 0.087779s]get_account_info - success
+2024-11-10 13:57:45,548 - Current balance: $10000000.0
+2024-11-10 13:57:45,571 -  * Debugger is active!
+2024-11-10 13:57:45,573 -  * Debugger PIN: 795-788-126
+2024-11-10 13:59:02,407 -  * Detected change in 'd:\\Bot\\app.py', reloading
+2024-11-10 13:59:02,468 -  * Restarting with stat
+2024-11-10 13:59:03,682 - [Elapsed time 0.235266s]login - success
+2024-11-10 13:59:03,773 - [Elapsed time 0.090607s]get_account_info - success
+2024-11-10 13:59:03,773 - Current balance: $10000000.0
+2024-11-10 13:59:03,786 -  * Debugger is active!
+2024-11-10 13:59:03,786 -  * Debugger PIN: 795-788-126
+2024-11-10 13:59:14,214 - [Elapsed time 0.203482s]login - success
+2024-11-10 13:59:14,290 - [Elapsed time 0.076218s]get_account_info - success
+2024-11-10 13:59:14,290 - Current balance: $10000000.0
+2024-11-10 13:59:14,330 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 13:59:14,330 - [33mPress CTRL+C to quit[0m
+2024-11-10 13:59:14,332 -  * Restarting with stat
+2024-11-10 13:59:16,286 - [Elapsed time 0.203135s]login - success
+2024-11-10 13:59:16,361 - [Elapsed time 0.075370s]get_account_info - success
+2024-11-10 13:59:16,361 - Current balance: $10000000.0
+2024-11-10 13:59:16,376 -  * Debugger is active!
+2024-11-10 13:59:16,384 -  * Debugger PIN: 795-788-126
+2024-11-10 13:59:19,428 - 127.0.0.1 - - [10/Nov/2024 13:59:19] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 13:59:19,534 - 127.0.0.1 - - [10/Nov/2024 13:59:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 13:59:19,538 - 127.0.0.1 - - [10/Nov/2024 13:59:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 13:59:19,549 - 127.0.0.1 - - [10/Nov/2024 13:59:19] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=DjfrRRVA28xpjuwc4QPg HTTP/1.1" 200 -
+2024-11-10 13:59:43,806 -  * Detected change in 'D:\\Bot\\app.py', reloading
+2024-11-10 13:59:44,138 -  * Detected change in 'd:\\Bot\\app.py', reloading
+2024-11-10 13:59:44,196 -  * Restarting with stat
+2024-11-10 13:59:45,405 - [Elapsed time 0.207470s]login - success
+2024-11-10 13:59:45,488 - [Elapsed time 0.082972s]get_account_info - success
+2024-11-10 13:59:45,488 - Current balance: $10000000.0
+2024-11-10 13:59:45,511 -  * Debugger is active!
+2024-11-10 13:59:45,513 -  * Debugger PIN: 795-788-126
+2024-11-10 13:59:51,157 -  * Restarting with stat
+2024-11-10 13:59:53,028 - [Elapsed time 0.207598s]login - success
+2024-11-10 13:59:53,106 - [Elapsed time 0.078712s]get_account_info - success
+2024-11-10 13:59:53,106 - Current balance: $10000000.0
+2024-11-10 13:59:53,122 -  * Debugger is active!
+2024-11-10 13:59:53,122 -  * Debugger PIN: 795-788-126
+2024-11-10 14:00:08,409 - [Elapsed time 0.179194s]login - success
+2024-11-10 14:00:08,489 - [Elapsed time 0.080541s]get_account_info - success
+2024-11-10 14:00:08,489 - Current balance: $10000000.0
+2024-11-10 14:00:08,516 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 14:00:08,517 - [33mPress CTRL+C to quit[0m
+2024-11-10 14:00:08,518 -  * Restarting with stat
+2024-11-10 14:00:09,557 - [Elapsed time 0.174257s]login - success
+2024-11-10 14:00:09,628 - [Elapsed time 0.070259s]get_account_info - success
+2024-11-10 14:00:09,628 - Current balance: $10000000.0
+2024-11-10 14:00:09,641 -  * Debugger is active!
+2024-11-10 14:00:09,648 -  * Debugger PIN: 795-788-126
+2024-11-10 14:00:11,412 - 127.0.0.1 - - [10/Nov/2024 14:00:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:00:11,530 - 127.0.0.1 - - [10/Nov/2024 14:00:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:00:11,546 - 127.0.0.1 - - [10/Nov/2024 14:00:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:00:11,546 - 127.0.0.1 - - [10/Nov/2024 14:00:11] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1" 200 -
+2024-11-10 14:00:17,466 - 127.0.0.1 - - [10/Nov/2024 14:00:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:00:17,492 - 127.0.0.1 - - [10/Nov/2024 14:00:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:00:17,494 - 127.0.0.1 - - [10/Nov/2024 14:00:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:00:17,505 - 127.0.0.1 - - [10/Nov/2024 14:00:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1[0m" 304 -
+2024-11-10 14:00:18,621 - 127.0.0.1 - - [10/Nov/2024 14:00:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:00:18,636 - 127.0.0.1 - - [10/Nov/2024 14:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:00:18,636 - 127.0.0.1 - - [10/Nov/2024 14:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:00:18,656 - 127.0.0.1 - - [10/Nov/2024 14:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1[0m" 304 -
+2024-11-10 14:00:46,295 - 127.0.0.1 - - [10/Nov/2024 14:00:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:00:46,318 - 127.0.0.1 - - [10/Nov/2024 14:00:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:00:46,321 - 127.0.0.1 - - [10/Nov/2024 14:00:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:00:46,334 - 127.0.0.1 - - [10/Nov/2024 14:00:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1[0m" 304 -
+2024-11-10 14:01:02,656 - [Elapsed time 0.215016s]login - success
+2024-11-10 14:01:02,751 - [Elapsed time 0.095685s]get_account_info - success
+2024-11-10 14:01:02,751 - Current balance: $10000000.0
+2024-11-10 14:01:02,767 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 14:01:02,767 - [33mPress CTRL+C to quit[0m
+2024-11-10 14:01:02,767 -  * Restarting with stat
+2024-11-10 14:01:03,835 - [Elapsed time 0.194069s]login - success
+2024-11-10 14:01:03,917 - [Elapsed time 0.082460s]get_account_info - success
+2024-11-10 14:01:03,918 - Current balance: $10000000.0
+2024-11-10 14:01:03,932 -  * Debugger is active!
+2024-11-10 14:01:03,939 -  * Debugger PIN: 795-788-126
+2024-11-10 14:01:05,803 - 127.0.0.1 - - [10/Nov/2024 14:01:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:01:05,819 - 127.0.0.1 - - [10/Nov/2024 14:01:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:01:05,824 - 127.0.0.1 - - [10/Nov/2024 14:01:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:01:05,836 - 127.0.0.1 - - [10/Nov/2024 14:01:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1[0m" 304 -
+2024-11-10 14:01:08,000 - 127.0.0.1 - - [10/Nov/2024 14:01:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:01:08,009 - 127.0.0.1 - - [10/Nov/2024 14:01:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:01:08,009 - 127.0.0.1 - - [10/Nov/2024 14:01:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:01:08,027 - 127.0.0.1 - - [10/Nov/2024 14:01:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=sfQvp2jNlC7fCGGeISNe HTTP/1.1[0m" 304 -
+2024-11-10 14:02:46,802 -  * Detected change in 'd:\\Bot\\app.py', reloading
+2024-11-10 14:02:46,842 -  * Restarting with stat
+2024-11-10 14:02:47,939 - [Elapsed time 0.189444s]login - success
+2024-11-10 14:02:48,034 - [Elapsed time 0.095668s]get_account_info - success
+2024-11-10 14:02:48,034 - Current balance: $10000000.0
+2024-11-10 14:02:48,056 -  * Debugger is active!
+2024-11-10 14:02:48,058 -  * Debugger PIN: 795-788-126
+2024-11-10 14:02:59,791 - [Elapsed time 0.204772s]login - success
+2024-11-10 14:02:59,878 - [Elapsed time 0.087016s]get_account_info - success
+2024-11-10 14:02:59,878 - Current balance: $10000000.0
+2024-11-10 14:02:59,915 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 14:02:59,915 - [33mPress CTRL+C to quit[0m
+2024-11-10 14:02:59,915 -  * Restarting with stat
+2024-11-10 14:03:01,964 - [Elapsed time 0.197285s]login - success
+2024-11-10 14:03:02,045 - [Elapsed time 0.077331s]get_account_info - success
+2024-11-10 14:03:02,045 - Current balance: $10000000.0
+2024-11-10 14:03:02,059 -  * Debugger is active!
+2024-11-10 14:03:02,065 -  * Debugger PIN: 795-788-126
+2024-11-10 14:03:03,055 - 127.0.0.1 - - [10/Nov/2024 14:03:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:03:03,178 - 127.0.0.1 - - [10/Nov/2024 14:03:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:03:03,178 - 127.0.0.1 - - [10/Nov/2024 14:03:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:03:03,191 - 127.0.0.1 - - [10/Nov/2024 14:03:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=EbKvMfEx3b9pjnW6UiT8 HTTP/1.1" 200 -
+2024-11-10 14:09:43,404 - 127.0.0.1 - - [10/Nov/2024 14:09:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 14:09:43,419 - 127.0.0.1 - - [10/Nov/2024 14:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 14:09:43,423 - 127.0.0.1 - - [10/Nov/2024 14:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 14:09:43,434 - 127.0.0.1 - - [10/Nov/2024 14:09:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=EbKvMfEx3b9pjnW6UiT8 HTTP/1.1[0m" 304 -
+2024-11-10 14:27:02,251 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-10 14:27:02,307 -  * Restarting with stat
+2024-11-11 13:43:46,239 - [Elapsed time 0.213723s]login - success
+2024-11-11 13:43:46,352 - [Elapsed time 0.111469s]get_account_info - success
+2024-11-11 13:43:46,352 - Current balance: $10000000.0
+2024-11-11 13:43:46,393 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:43:46,393 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:43:46,395 -  * Restarting with stat
+2024-11-11 13:43:47,542 - [Elapsed time 0.205825s]login - success
+2024-11-11 13:43:47,627 - [Elapsed time 0.085432s]get_account_info - success
+2024-11-11 13:43:47,628 - Current balance: $10000000.0
+2024-11-11 13:43:47,645 -  * Debugger is active!
+2024-11-11 13:43:47,647 -  * Debugger PIN: 795-788-126
+2024-11-11 13:44:03,645 - 127.0.0.1 - - [11/Nov/2024 13:44:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:44:03,876 - 127.0.0.1 - - [11/Nov/2024 13:44:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:44:03,879 - 127.0.0.1 - - [11/Nov/2024 13:44:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:44:03,914 - 127.0.0.1 - - [11/Nov/2024 13:44:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1" 200 -
+2024-11-11 13:44:11,473 - 127.0.0.1 - - [11/Nov/2024 13:44:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:44:11,494 - 127.0.0.1 - - [11/Nov/2024 13:44:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:44:11,495 - 127.0.0.1 - - [11/Nov/2024 13:44:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:44:11,511 - 127.0.0.1 - - [11/Nov/2024 13:44:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:44:33,326 - 127.0.0.1 - - [11/Nov/2024 13:44:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:44:33,366 - 127.0.0.1 - - [11/Nov/2024 13:44:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:44:33,366 - 127.0.0.1 - - [11/Nov/2024 13:44:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:44:33,420 - 127.0.0.1 - - [11/Nov/2024 13:44:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:45:24,374 - 127.0.0.1 - - [11/Nov/2024 13:45:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:45:24,413 - 127.0.0.1 - - [11/Nov/2024 13:45:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:45:24,416 - 127.0.0.1 - - [11/Nov/2024 13:45:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:45:24,439 - 127.0.0.1 - - [11/Nov/2024 13:45:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:45:37,563 - 127.0.0.1 - - [11/Nov/2024 13:45:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:45:37,581 - 127.0.0.1 - - [11/Nov/2024 13:45:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:45:37,581 - 127.0.0.1 - - [11/Nov/2024 13:45:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:45:37,600 - 127.0.0.1 - - [11/Nov/2024 13:45:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:46:04,648 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:46:04,709 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-11 13:46:04,714 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-11 13:46:04,863 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1" 200 -
+2024-11-11 13:46:04,870 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-11 13:46:04,888 - 127.0.0.1 - - [11/Nov/2024 13:46:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-11 13:49:09,819 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:49:09,865 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:49:09,866 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:49:09,884 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:49:09,885 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-11 13:49:09,919 - 127.0.0.1 - - [11/Nov/2024 13:49:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-11 13:49:12,226 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:49:12,264 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:49:12,265 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:49:12,305 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:49:12,307 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-11 13:49:12,319 - 127.0.0.1 - - [11/Nov/2024 13:49:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-11 13:49:31,459 - 127.0.0.1 - - [11/Nov/2024 13:49:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:49:31,515 - 127.0.0.1 - - [11/Nov/2024 13:49:31] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-11 13:49:31,518 - 127.0.0.1 - - [11/Nov/2024 13:49:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:49:31,581 - 127.0.0.1 - - [11/Nov/2024 13:49:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:49:39,170 - 127.0.0.1 - - [11/Nov/2024 13:49:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 13:49:39,200 - 127.0.0.1 - - [11/Nov/2024 13:49:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-11 13:49:39,201 - 127.0.0.1 - - [11/Nov/2024 13:49:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 13:49:39,218 - 127.0.0.1 - - [11/Nov/2024 13:49:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=mCQSnaG8lyFm7ooztsA3 HTTP/1.1[0m" 304 -
+2024-11-11 13:51:42,645 - [Elapsed time 0.220375s]login - success
+2024-11-11 13:51:42,739 - [Elapsed time 0.093090s]get_account_info - success
+2024-11-11 13:51:42,739 - Current balance: $10000000.0
+2024-11-11 13:51:42,742 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:51:42,742 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:53:04,269 - [Elapsed time 0.194055s]login - success
+2024-11-11 13:53:04,350 - [Elapsed time 0.079540s]get_account_info - success
+2024-11-11 13:53:04,350 - Current balance: $10000000.0
+2024-11-11 13:53:04,356 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:53:04,356 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:54:05,855 - [Elapsed time 0.185740s]login - success
+2024-11-11 13:54:05,936 - [Elapsed time 0.081796s]get_account_info - success
+2024-11-11 13:54:05,937 - Current balance: $10000000.0
+2024-11-11 13:54:05,960 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:54:05,961 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:54:05,962 -  * Restarting with stat
+2024-11-11 13:54:07,177 - [Elapsed time 0.180426s]login - success
+2024-11-11 13:54:07,252 - [Elapsed time 0.074858s]get_account_info - success
+2024-11-11 13:54:07,252 - Current balance: $10000000.0
+2024-11-11 13:54:07,269 -  * Debugger is active!
+2024-11-11 13:54:07,271 -  * Debugger PIN: 795-788-126
+2024-11-11 13:54:49,805 -  * Detected change in 'd:\\Bot\\app.py', reloading
+2024-11-11 13:54:49,850 -  * Restarting with stat
+2024-11-11 13:54:51,123 - [Elapsed time 0.225903s]login - success
+2024-11-11 13:54:51,202 - [Elapsed time 0.078839s]get_account_info - success
+2024-11-11 13:54:51,202 - Current balance: $10000000.0
+2024-11-11 13:54:51,219 -  * Debugger is active!
+2024-11-11 13:54:51,220 -  * Debugger PIN: 795-788-126
+2024-11-11 13:56:01,229 - [Elapsed time 0.187647s]login - success
+2024-11-11 13:56:01,314 - [Elapsed time 0.084135s]get_account_info - success
+2024-11-11 13:56:01,315 - Current balance: $10000000.0
+2024-11-11 13:56:01,336 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:56:01,336 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:56:01,338 -  * Restarting with stat
+2024-11-11 13:56:02,407 - [Elapsed time 0.189980s]login - success
+2024-11-11 13:56:02,478 - [Elapsed time 0.070936s]get_account_info - success
+2024-11-11 13:56:02,479 - Current balance: $10000000.0
+2024-11-11 13:56:02,495 -  * Debugger is active!
+2024-11-11 13:56:02,497 -  * Debugger PIN: 795-788-126
+2024-11-11 13:59:28,428 - [Elapsed time 0.223001s]login - success
+2024-11-11 13:59:28,518 - [Elapsed time 0.088621s]get_account_info - success
+2024-11-11 13:59:28,519 - Current balance: $10000000.0
+2024-11-11 13:59:28,544 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:59:28,544 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:59:28,546 -  * Restarting with stat
+2024-11-11 13:59:30,445 - [Elapsed time 0.203537s]login - success
+2024-11-11 13:59:30,525 - [Elapsed time 0.079410s]get_account_info - success
+2024-11-11 13:59:30,525 - Current balance: $10000000.0
+2024-11-11 13:59:30,542 -  * Debugger is active!
+2024-11-11 13:59:30,548 -  * Debugger PIN: 795-788-126
+2024-11-11 13:59:33,830 - [Elapsed time 0.201720s]login - success
+2024-11-11 13:59:33,903 - [Elapsed time 0.072774s]get_account_info - success
+2024-11-11 13:59:33,903 - Current balance: $10000000.0
+2024-11-11 13:59:33,922 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 13:59:33,922 - [33mPress CTRL+C to quit[0m
+2024-11-11 13:59:33,925 -  * Restarting with stat
+2024-11-11 13:59:36,052 - [Elapsed time 0.196391s]login - success
+2024-11-11 13:59:36,126 - [Elapsed time 0.072628s]get_account_info - success
+2024-11-11 13:59:36,128 - Current balance: $10000000.0
+2024-11-11 13:59:36,147 -  * Debugger is active!
+2024-11-11 13:59:36,156 -  * Debugger PIN: 795-788-126
+2024-11-11 14:05:05,534 - [Elapsed time 0.232596s]login - success
+2024-11-11 14:05:05,612 - [Elapsed time 0.078762s]get_account_info - success
+2024-11-11 14:05:05,613 - Current balance: $10000000.0
+2024-11-11 14:05:05,634 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:05:05,635 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:05:05,638 -  * Restarting with stat
+2024-11-11 14:05:07,638 - [Elapsed time 0.247726s]login - success
+2024-11-11 14:05:07,711 - [Elapsed time 0.072151s]get_account_info - success
+2024-11-11 14:05:07,712 - Current balance: $10000000.0
+2024-11-11 14:05:07,729 -  * Debugger is active!
+2024-11-11 14:05:07,733 -  * Debugger PIN: 795-788-126
+2024-11-11 14:05:34,343 - [Elapsed time 0.212614s]login - success
+2024-11-11 14:05:34,415 - [Elapsed time 0.071229s]get_account_info - success
+2024-11-11 14:05:34,416 - Current balance: $10000000.0
+2024-11-11 14:05:34,439 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:05:34,439 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:05:34,441 -  * Restarting with stat
+2024-11-11 14:05:36,364 - [Elapsed time 0.185958s]login - success
+2024-11-11 14:05:36,442 - [Elapsed time 0.078177s]get_account_info - success
+2024-11-11 14:05:36,442 - Current balance: $10000000.0
+2024-11-11 14:05:36,464 -  * Debugger is active!
+2024-11-11 14:05:36,469 -  * Debugger PIN: 795-788-126
+2024-11-11 14:16:22,791 - [Elapsed time 0.219200s]login - success
+2024-11-11 14:16:22,869 - [Elapsed time 0.078133s]get_account_info - success
+2024-11-11 14:16:22,869 - Current balance: $10000000.0
+2024-11-11 14:16:22,901 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:16:22,901 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:16:22,903 -  * Restarting with stat
+2024-11-11 14:16:23,822 - [Elapsed time 0.199979s]login - success
+2024-11-11 14:16:23,900 - [Elapsed time 0.077993s]get_account_info - success
+2024-11-11 14:16:23,900 - Current balance: $10000000.0
+2024-11-11 14:16:23,909 -  * Debugger is active!
+2024-11-11 14:16:23,909 -  * Debugger PIN: 795-788-126
+2024-11-11 14:16:26,495 - 127.0.0.1 - - [11/Nov/2024 14:16:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:16:26,711 - 127.0.0.1 - - [11/Nov/2024 14:16:26] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-11 14:16:26,711 - 127.0.0.1 - - [11/Nov/2024 14:16:26] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-11 14:16:26,774 - 127.0.0.1 - - [11/Nov/2024 14:16:26] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lFbqOUTNyoy3StmxsTNq HTTP/1.1" 200 -
+2024-11-11 14:16:38,339 - 127.0.0.1 - - [11/Nov/2024 14:16:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:16:38,390 - 127.0.0.1 - - [11/Nov/2024 14:16:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-11 14:16:38,390 - 127.0.0.1 - - [11/Nov/2024 14:16:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-11 14:16:38,429 - 127.0.0.1 - - [11/Nov/2024 14:16:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-11 14:16:38,433 - 127.0.0.1 - - [11/Nov/2024 14:16:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=lFbqOUTNyoy3StmxsTNq HTTP/1.1" 200 -
+2024-11-11 14:17:11,830 - [Elapsed time 0.206509s]login - success
+2024-11-11 14:17:11,911 - [Elapsed time 0.081165s]get_account_info - success
+2024-11-11 14:17:11,911 - Current balance: $10000000.0
+2024-11-11 14:17:11,923 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:17:11,925 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:17:17,025 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:17,025 - 127.0.0.1 - - [11/Nov/2024 14:17:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:17:20,648 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:20,648 - 127.0.0.1 - - [11/Nov/2024 14:17:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:17:21,199 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:21,199 - 127.0.0.1 - - [11/Nov/2024 14:17:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:17:21,388 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:21,388 - 127.0.0.1 - - [11/Nov/2024 14:17:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:17:21,560 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:21,560 - 127.0.0.1 - - [11/Nov/2024 14:17:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:17:21,765 - Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Bot\app.py", line 20, in index
+    with lock:
+         ^^^^
+TypeError: 'builtin_function_or_method' object does not support the context manager protocol
+2024-11-11 14:17:21,765 - 127.0.0.1 - - [11/Nov/2024 14:17:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:23:02,779 - [Elapsed time 0.194463s]login - success
+2024-11-11 14:23:02,856 - [Elapsed time 0.077447s]get_account_info - success
+2024-11-11 14:23:02,856 - Current balance: $10000000.0
+2024-11-11 14:23:02,878 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:23:02,878 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:23:02,883 -  * Restarting with stat
+2024-11-11 14:23:03,771 - [Elapsed time 0.187427s]login - success
+2024-11-11 14:23:03,840 - [Elapsed time 0.069561s]get_account_info - success
+2024-11-11 14:23:03,840 - Current balance: $10000000.0
+2024-11-11 14:23:03,862 -  * Debugger is active!
+2024-11-11 14:23:03,862 -  * Debugger PIN: 795-788-126
+2024-11-11 14:23:09,721 - 127.0.0.1 - - [11/Nov/2024 14:23:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-11 14:23:09,876 - 127.0.0.1 - - [11/Nov/2024 14:23:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-11 14:23:09,878 - 127.0.0.1 - - [11/Nov/2024 14:23:09] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-11 14:23:09,889 - 127.0.0.1 - - [11/Nov/2024 14:23:09] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=KUBudfPNPSgiM6bmXCON HTTP/1.1" 200 -
+2024-11-11 14:26:14,083 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-11 14:26:14,140 -  * Restarting with stat
+2024-11-11 14:26:15,315 - [Elapsed time 0.198728s]login - success
+2024-11-11 14:26:15,387 - [Elapsed time 0.072397s]get_account_info - success
+2024-11-11 14:26:15,387 - Current balance: $10000000.0
+2024-11-11 14:26:15,411 -  * Debugger is active!
+2024-11-11 14:26:15,413 -  * Debugger PIN: 795-788-126
+2024-11-11 14:26:17,732 - 127.0.0.1 - - [11/Nov/2024 14:26:17] "GET / HTTP/1.1" 200 -
+2024-11-11 14:26:17,826 - 127.0.0.1 - - [11/Nov/2024 14:26:17] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-11 14:27:09,334 - 127.0.0.1 - - [11/Nov/2024 14:27:09] "GET / HTTP/1.1" 200 -
+2024-11-11 14:27:09,349 - 127.0.0.1 - - [11/Nov/2024 14:27:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:28:00,920 - [Elapsed time 0.473027s]login - success
+2024-11-11 14:28:01,004 - [Elapsed time 0.084109s]get_account_info - success
+2024-11-11 14:28:01,004 - Current balance: $10000000.0
+2024-11-11 14:28:01,031 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:28:01,031 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:28:01,031 -  * Restarting with stat
+2024-11-11 14:28:01,980 - [Elapsed time 0.201966s]login - success
+2024-11-11 14:28:02,055 - [Elapsed time 0.074355s]get_account_info - success
+2024-11-11 14:28:02,055 - Current balance: $10000000.0
+2024-11-11 14:28:02,071 -  * Debugger is active!
+2024-11-11 14:28:02,074 -  * Debugger PIN: 795-788-126
+2024-11-11 14:28:12,051 - [Elapsed time 0.216166s]login - success
+2024-11-11 14:28:12,130 - [Elapsed time 0.078563s]get_account_info - success
+2024-11-11 14:28:12,130 - Current balance: $10000000.0
+2024-11-11 14:28:12,162 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:28:12,162 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:28:12,162 -  * Restarting with stat
+2024-11-11 14:28:13,979 - [Elapsed time 0.207712s]login - success
+2024-11-11 14:28:14,041 - [Elapsed time 0.061494s]get_account_info - success
+2024-11-11 14:28:14,041 - Current balance: $10000000.0
+2024-11-11 14:28:14,057 -  * Debugger is active!
+2024-11-11 14:28:14,057 -  * Debugger PIN: 795-788-126
+2024-11-11 14:28:15,057 - [Elapsed time 0.187418s]login - success
+2024-11-11 14:28:15,121 - [Elapsed time 0.064273s]get_account_info - success
+2024-11-11 14:28:15,121 - Current balance: $10000000.0
+2024-11-11 14:28:15,163 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:28:15,163 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:28:15,165 -  * Restarting with stat
+2024-11-11 14:28:16,945 - [Elapsed time 0.184064s]login - success
+2024-11-11 14:28:17,038 - [Elapsed time 0.078090s]get_account_info - success
+2024-11-11 14:28:17,039 - Current balance: $10000000.0
+2024-11-11 14:28:17,058 -  * Debugger is active!
+2024-11-11 14:28:17,067 -  * Debugger PIN: 795-788-126
+2024-11-11 14:28:20,262 - 127.0.0.1 - - [11/Nov/2024 14:28:20] "GET / HTTP/1.1" 200 -
+2024-11-11 14:28:20,357 - 127.0.0.1 - - [11/Nov/2024 14:28:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:28:23,408 - 127.0.0.1 - - [11/Nov/2024 14:28:23] "GET / HTTP/1.1" 200 -
+2024-11-11 14:28:23,410 - 127.0.0.1 - - [11/Nov/2024 14:28:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:28:38,625 - [Elapsed time 0.235957s]login - success
+2024-11-11 14:28:38,720 - [Elapsed time 0.094195s]get_account_info - success
+2024-11-11 14:28:38,720 - Current balance: $10000000.0
+2024-11-11 14:28:38,753 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:28:38,754 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:28:38,756 -  * Restarting with stat
+2024-11-11 14:28:40,803 - [Elapsed time 0.361841s]login - success
+2024-11-11 14:28:40,898 - [Elapsed time 0.094158s]get_account_info - success
+2024-11-11 14:28:40,898 - Current balance: $10000000.0
+2024-11-11 14:28:40,913 -  * Debugger is active!
+2024-11-11 14:28:40,913 -  * Debugger PIN: 795-788-126
+2024-11-11 14:28:42,270 - 127.0.0.1 - - [11/Nov/2024 14:28:42] "GET / HTTP/1.1" 200 -
+2024-11-11 14:28:42,286 - 127.0.0.1 - - [11/Nov/2024 14:28:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:29:00,533 - 127.0.0.1 - - [11/Nov/2024 14:29:00] "GET / HTTP/1.1" 200 -
+2024-11-11 14:29:00,549 - 127.0.0.1 - - [11/Nov/2024 14:29:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:29:17,738 - [Elapsed time 0.207800s]login - success
+2024-11-11 14:29:17,822 - [Elapsed time 0.083409s]get_account_info - success
+2024-11-11 14:29:17,822 - Current balance: $10000000.0
+2024-11-11 14:29:17,851 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:29:17,851 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:29:17,853 -  * Restarting with stat
+2024-11-11 14:29:19,747 - [Elapsed time 0.205569s]login - success
+2024-11-11 14:29:19,826 - [Elapsed time 0.079051s]get_account_info - success
+2024-11-11 14:29:19,826 - Current balance: $10000000.0
+2024-11-11 14:29:19,842 -  * Debugger is active!
+2024-11-11 14:29:19,842 -  * Debugger PIN: 795-788-126
+2024-11-11 14:29:22,252 - 127.0.0.1 - - [11/Nov/2024 14:29:22] "GET / HTTP/1.1" 200 -
+2024-11-11 14:29:22,266 - 127.0.0.1 - - [11/Nov/2024 14:29:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:29:43,807 - [Elapsed time 0.204391s]login - success
+2024-11-11 14:29:43,885 - [Elapsed time 0.078376s]get_account_info - success
+2024-11-11 14:29:43,885 - Current balance: $10000000.0
+2024-11-11 14:29:43,919 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 14:29:43,919 - [33mPress CTRL+C to quit[0m
+2024-11-11 14:29:43,921 -  * Restarting with stat
+2024-11-11 14:29:44,264 - 127.0.0.1 - - [11/Nov/2024 14:29:44] "GET / HTTP/1.1" 200 -
+2024-11-11 14:29:44,283 - 127.0.0.1 - - [11/Nov/2024 14:29:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 14:29:45,813 - [Elapsed time 0.204452s]login - success
+2024-11-11 14:29:45,892 - [Elapsed time 0.078731s]get_account_info - success
+2024-11-11 14:29:45,892 - Current balance: $10000000.0
+2024-11-11 14:29:45,907 -  * Debugger is active!
+2024-11-11 14:29:45,907 -  * Debugger PIN: 795-788-126
+2024-11-11 14:29:53,054 - Scraping insider data from http://openinsider.com/
+2024-11-11 14:29:53,623 - Found 10 rows in the table.
+2024-11-11 14:29:53,623 - Stock BGS added successfully.
+2024-11-11 14:29:53,623 - Stock LKFN added successfully.
+2024-11-11 14:29:53,623 - Stock NMFC added successfully.
+2024-11-11 14:29:53,623 - Stock ARR added successfully.
+2024-11-11 14:29:53,623 - Stock RRGB added successfully.
+2024-11-11 14:29:53,623 - Stock DINO added successfully.
+2024-11-11 14:29:53,623 - Stock OI added successfully.
+2024-11-11 14:29:53,623 - Stock PCB added successfully.
+2024-11-11 14:29:53,623 - Stock TRIN added successfully.
+2024-11-11 14:29:53,623 - Stock CBNK added successfully.
+2024-11-11 14:29:53,623 - Scraped 10 stocks from insider data
+2024-11-11 14:29:53,623 - Error while running the bot: 'TradingBot' object has no attribute 'run_trading_cycle'
+2024-11-11 14:29:53,623 - 127.0.0.1 - - [11/Nov/2024 14:29:53] "POST /start HTTP/1.1" 200 -
+2024-11-11 14:30:19,223 - 127.0.0.1 - - [11/Nov/2024 14:30:19] "[33mPOST /stop HTTP/1.1[0m" 404 -
+2024-11-11 14:32:24,839 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-11 14:32:24,903 -  * Restarting with stat
+2024-11-11 14:32:26,137 - [Elapsed time 0.203443s]login - success
+2024-11-11 14:32:26,222 - [Elapsed time 0.084805s]get_account_info - success
+2024-11-11 14:32:26,222 - Current balance: $10000000.0
+2024-11-11 14:32:26,241 -  * Debugger is active!
+2024-11-11 14:32:26,241 -  * Debugger PIN: 795-788-126
+2024-11-11 14:35:04,296 -  * Detected change in 'd:\\Bot\\trading_bot.py', reloading
+2024-11-11 14:35:04,339 -  * Restarting with stat
+2024-11-11 17:13:58,934 - [Elapsed time 0.200307s]login - success
+2024-11-11 17:13:59,021 - [Elapsed time 0.087283s]get_account_info - success
+2024-11-11 17:13:59,021 - Current balance: $10000000.0
+2024-11-11 17:13:59,045 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 17:13:59,045 - [33mPress CTRL+C to quit[0m
+2024-11-11 17:13:59,047 -  * Restarting with stat
+2024-11-11 17:14:00,178 - [Elapsed time 0.188064s]login - success
+2024-11-11 17:14:00,244 - [Elapsed time 0.065891s]get_account_info - success
+2024-11-11 17:14:00,245 - Current balance: $10000000.0
+2024-11-11 17:14:00,264 -  * Debugger is active!
+2024-11-11 17:14:00,267 -  * Debugger PIN: 795-788-126
+2024-11-11 17:14:04,823 - 127.0.0.1 - - [11/Nov/2024 17:14:04] "GET / HTTP/1.1" 200 -
+2024-11-11 17:14:04,958 - 127.0.0.1 - - [11/Nov/2024 17:14:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-11-11 17:25:38,401 - [Elapsed time 0.224387s]login - success
+2024-11-11 17:25:38,481 - [Elapsed time 0.079986s]get_account_info - success
+2024-11-11 17:25:38,481 - Current balance: $10000000.0
+2024-11-11 17:25:38,511 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 17:25:38,511 - [33mPress CTRL+C to quit[0m
+2024-11-11 17:25:38,515 -  * Restarting with stat
+2024-11-11 17:25:40,403 - [Elapsed time 0.207810s]login - success
+2024-11-11 17:25:40,472 - [Elapsed time 0.069587s]get_account_info - success
+2024-11-11 17:25:40,472 - Current balance: $10000000.0
+2024-11-11 17:25:40,495 -  * Debugger is active!
+2024-11-11 17:25:40,499 -  * Debugger PIN: 795-788-126
+2024-11-11 17:25:45,565 - 127.0.0.1 - - [11/Nov/2024 17:25:45] "GET / HTTP/1.1" 200 -
+2024-11-11 17:25:45,695 - 127.0.0.1 - - [11/Nov/2024 17:25:45] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-11 17:26:48,244 - Scraping insider data from http://openinsider.com/
+2024-11-11 17:27:57,749 - Found 10 rows in the table.
+2024-11-11 17:30:11,584 - Stock BGS added successfully.
+2024-11-11 17:30:27,220 - Stock LKFN added successfully.
+2024-11-11 17:30:27,223 - Stock NMFC added successfully.
+2024-11-11 17:30:27,224 - Stock ARR added successfully.
+2024-11-11 17:30:27,225 - Stock RRGB added successfully.
+2024-11-11 17:30:27,225 - Stock DINO added successfully.
+2024-11-11 17:30:27,228 - Stock OI added successfully.
+2024-11-11 17:30:27,229 - Stock PCB added successfully.
+2024-11-11 17:30:27,230 - Stock TRIN added successfully.
+2024-11-11 17:30:27,231 - Stock CBNK added successfully.
+2024-11-11 17:30:27,232 - Scraped 10 stocks from insider data
+2024-11-11 17:31:04,634 - Error while running the bot: TradingBot.filter_significant_transaction() got an unexpected keyword argument 'min_insider'
+2024-11-11 17:31:08,132 - 127.0.0.1 - - [11/Nov/2024 17:31:08] "POST /start HTTP/1.1" 200 -
+2024-11-11 17:31:44,840 - Stoping the trading...
+2024-11-11 17:31:44,840 - 127.0.0.1 - - [11/Nov/2024 17:31:44] "POST /stop HTTP/1.1" 200 -
+2024-11-11 17:33:01,606 - [Elapsed time 0.216037s]login - success
+2024-11-11 17:33:01,694 - [Elapsed time 0.085013s]get_account_info - success
+2024-11-11 17:33:01,694 - Current balance: $10000000.0
+2024-11-11 17:33:01,724 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 17:33:01,724 - [33mPress CTRL+C to quit[0m
+2024-11-11 17:33:01,724 -  * Restarting with stat
+2024-11-11 17:33:02,831 - [Elapsed time 0.206481s]login - success
+2024-11-11 17:33:02,894 - [Elapsed time 0.063313s]get_account_info - success
+2024-11-11 17:33:02,894 - Current balance: $10000000.0
+2024-11-11 17:33:02,926 -  * Debugger is active!
+2024-11-11 17:33:02,926 -  * Debugger PIN: 795-788-126
+2024-11-11 17:33:10,045 - 127.0.0.1 - - [11/Nov/2024 17:33:10] "GET / HTTP/1.1" 200 -
+2024-11-11 17:33:10,124 - 127.0.0.1 - - [11/Nov/2024 17:33:10] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-11 17:33:15,028 - Scraping insider data from http://openinsider.com/
+2024-11-11 17:33:15,595 - Found 10 rows in the table.
+2024-11-11 17:33:15,595 - Stock BGS added successfully.
+2024-11-11 17:33:15,595 - Stock LKFN added successfully.
+2024-11-11 17:33:15,595 - Stock NMFC added successfully.
+2024-11-11 17:33:15,595 - Stock ARR added successfully.
+2024-11-11 17:33:15,595 - Stock RRGB added successfully.
+2024-11-11 17:33:15,595 - Stock DINO added successfully.
+2024-11-11 17:33:15,595 - Stock OI added successfully.
+2024-11-11 17:33:15,595 - Stock PCB added successfully.
+2024-11-11 17:33:15,595 - Stock TRIN added successfully.
+2024-11-11 17:33:15,595 - Stock CBNK added successfully.
+2024-11-11 17:33:15,595 - Scraped 10 stocks from insider data
+2024-11-11 17:33:15,595 - Error while running the bot: TradingBot.filter_significant_transaction() got an unexpected keyword argument 'min_insider'
+2024-11-11 17:33:15,595 - 127.0.0.1 - - [11/Nov/2024 17:33:15] "POST /start HTTP/1.1" 200 -
+2024-11-11 17:40:43,782 - [Elapsed time 0.206819s]login - success
+2024-11-11 17:40:43,869 - [Elapsed time 0.086376s]get_account_info - success
+2024-11-11 17:40:43,869 - Current balance: $10000000.0
+2024-11-11 17:40:43,895 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 17:40:43,895 - [33mPress CTRL+C to quit[0m
+2024-11-11 17:40:43,898 -  * Restarting with stat
+2024-11-11 17:41:16,392 - [Elapsed time 0.232661s]login - success
+2024-11-11 17:41:22,814 - [Elapsed time 0.104865s]get_account_info - success
+2024-11-11 17:41:27,503 - Current balance: $10000000.0
+2024-11-11 17:41:56,585 -  * Debugger is active!
+2024-11-11 17:41:56,593 -  * Debugger PIN: 795-788-126
+2024-11-11 17:42:09,573 - Scraping insider data from http://openinsider.com/
+2024-11-11 17:42:12,139 - Found 10 rows in the table.
+2024-11-11 17:42:12,139 - Stock BGS added successfully.
+2024-11-11 17:42:12,139 - Stock LKFN added successfully.
+2024-11-11 17:42:12,139 - Stock NMFC added successfully.
+2024-11-11 17:42:12,139 - Stock ARR added successfully.
+2024-11-11 17:42:12,139 - Stock RRGB added successfully.
+2024-11-11 17:42:12,139 - Stock DINO added successfully.
+2024-11-11 17:42:12,139 - Stock OI added successfully.
+2024-11-11 17:42:12,139 - Stock PCB added successfully.
+2024-11-11 17:42:12,139 - Stock TRIN added successfully.
+2024-11-11 17:42:12,139 - Stock CBNK added successfully.
+2024-11-11 17:42:12,139 - Scraped 10 stocks from insider data
+2024-11-11 17:42:30,452 - Error while running the bot: TradingBot.filter_significant_transaction() got an unexpected keyword argument 'min_insider'
+2024-11-11 17:42:36,346 - 127.0.0.1 - - [11/Nov/2024 17:42:36] "POST /start HTTP/1.1" 200 -
+2024-11-11 17:46:50,723 -  * Detected change in 'D:\\Bot\\trading_bot.py', reloading
+2024-11-11 17:46:51,474 -  * Restarting with stat
+2024-11-11 17:47:05,869 - [Elapsed time 0.211823s]login - success
+2024-11-11 17:47:05,964 - [Elapsed time 0.094549s]get_account_info - success
+2024-11-11 17:47:05,964 - Current balance: $10000000.0
+2024-11-11 17:47:05,990 -  * Debugger is active!
+2024-11-11 17:47:05,990 -  * Debugger PIN: 795-788-126
+2024-11-11 17:48:09,443 - [Elapsed time 0.199489s]login - success
+2024-11-11 17:48:09,537 - [Elapsed time 0.093671s]get_account_info - success
+2024-11-11 17:48:09,537 - Current balance: $10000000.0
+2024-11-11 17:48:11,228 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 17:48:11,228 - [33mPress CTRL+C to quit[0m
+2024-11-11 17:48:11,228 -  * Restarting with stat
+2024-11-11 17:48:37,671 - [Elapsed time 0.194310s]login - success
+2024-11-11 17:48:41,256 - [Elapsed time 0.117578s]get_account_info - success
+2024-11-11 17:48:42,462 - Current balance: $10000000.0
+2024-11-11 17:49:00,490 -  * Debugger is active!
+2024-11-11 17:49:00,502 -  * Debugger PIN: 795-788-126
+2024-11-11 17:49:23,460 - Scraping insider data from http://openinsider.com/
+2024-11-11 17:49:48,410 - Found 10 rows in the table.
+2024-11-11 17:49:48,414 - Stock BGS added successfully.
+2024-11-11 17:49:48,414 - Stock LKFN added successfully.
+2024-11-11 17:49:48,414 - Stock NMFC added successfully.
+2024-11-11 17:49:48,414 - Stock ARR added successfully.
+2024-11-11 17:49:48,414 - Stock RRGB added successfully.
+2024-11-11 17:49:48,414 - Stock DINO added successfully.
+2024-11-11 17:49:48,414 - Stock OI added successfully.
+2024-11-11 17:49:48,419 - Stock PCB added successfully.
+2024-11-11 17:49:48,421 - Stock TRIN added successfully.
+2024-11-11 17:49:48,422 - Stock CBNK added successfully.
+2024-11-11 17:49:48,422 - Scraped 10 stocks from insider data
+2024-11-11 17:50:21,753 - Stock BGS pass filters : Total value: 514294.0 , Unique insiders: 1 ,Avg Own: 16.0 % 
+2024-11-11 17:50:26,502 - 127.0.0.1 - - [11/Nov/2024 17:50:26] "POST /start HTTP/1.1" 200 -
+2024-11-11 17:52:24,649 - Stock LKFN pass filters : Total value: 350681.0 , Unique insiders: 1 ,Avg Own: 17.0 % 
+2024-11-11 17:53:45,264 - Stock NMFC pass filters : Total value: 5130220.0 , Unique insiders: 1 ,Avg Own: 5.0 % 
+2024-11-11 17:54:16,658 - Stock ARR pass filters : Total value: 246269.0 , Unique insiders: 1 ,Avg Own: 61.0 % 
+2024-11-11 17:54:57,209 - Stock RRGB pass filters : Total value: 1388557.0 , Unique insiders: 1 ,Avg Own: 11.0 % 
+2024-11-11 17:55:19,688 - Stock DINO pass filters : Total value: 293698.0 , Unique insiders: 1 ,Avg Own: 2.0 % 
+2024-11-11 17:55:46,775 - Stock OI pass filters : Total value: 245934.0 , Unique insiders: 1 ,Avg Own: 5.0 % 
+2024-11-11 17:56:08,327 - Stock PCB pass filters : Total value: 395952.0 , Unique insiders: 1 ,Avg Own: 1.0 % 
+2024-11-11 17:56:32,342 - Stock TRIN pass filters : Total value: 382362.0 , Unique insiders: 1 ,Avg Own: 1.0 % 
+2024-11-11 17:57:12,793 - Stock CBNK pass filters : Total value: 101662.0 , Unique insiders: 1 ,Avg Own: 116.0 % 
+2024-11-11 17:59:30,553 - [Elapsed time 0.116114s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [NMFC]'}
+2024-11-11 17:59:39,628 - Error fetching current price for NMFC: Symbol not found [NMFC]  
+2024-11-11 18:07:07,751 - Skipping stock NMFC due to insufficient budget or price issue.
+2024-11-11 18:07:37,090 - [Elapsed time 0.101686s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [RRGB]'}
+2024-11-11 18:07:39,549 - Error fetching current price for RRGB: Symbol not found [RRGB]  
+2024-11-11 18:07:56,416 - Skipping stock RRGB due to insufficient budget or price issue.
+2024-11-11 18:07:56,526 - [Elapsed time 0.110551s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [BGS]'}
+2024-11-11 18:07:56,530 - Error fetching current price for BGS: Symbol not found [BGS]  
+2024-11-11 18:07:56,530 - Skipping stock BGS due to insufficient budget or price issue.
+2024-11-11 18:07:56,590 - [Elapsed time 0.059993s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [PCB]'}
+2024-11-11 18:07:56,590 - Error fetching current price for PCB: Symbol not found [PCB]  
+2024-11-11 18:07:56,590 - Skipping stock PCB due to insufficient budget or price issue.
+2024-11-11 18:07:56,642 - [Elapsed time 0.052760s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [TRIN]'}
+2024-11-11 18:07:56,642 - Error fetching current price for TRIN: Symbol not found [TRIN]  
+2024-11-11 18:07:56,642 - Skipping stock TRIN due to insufficient budget or price issue.
+2024-11-11 18:07:56,698 - [Elapsed time 0.050656s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [LKFN]'}
+2024-11-11 18:07:56,698 - Error fetching current price for LKFN: Symbol not found [LKFN]  
+2024-11-11 18:07:56,698 - Skipping stock LKFN due to insufficient budget or price issue.
+2024-11-11 18:07:56,745 - [Elapsed time 0.047534s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [DINO]'}
+2024-11-11 18:07:56,745 - Error fetching current price for DINO: Symbol not found [DINO]  
+2024-11-11 18:07:56,745 - Skipping stock DINO due to insufficient budget or price issue.
+2024-11-11 18:07:56,803 - [Elapsed time 0.057953s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [ARR]'}
+2024-11-11 18:07:56,803 - Error fetching current price for ARR: Symbol not found [ARR]  
+2024-11-11 18:07:56,803 - Skipping stock ARR due to insufficient budget or price issue.
+2024-11-11 18:07:56,856 - [Elapsed time 0.051554s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [OI]'}
+2024-11-11 18:07:56,856 - Error fetching current price for OI: Symbol not found [OI]  
+2024-11-11 18:07:56,856 - Skipping stock OI due to insufficient budget or price issue.
+2024-11-11 18:07:56,906 - [Elapsed time 0.050274s]get_candlestick - {'code': 'TCHART-APP-02', 'message': 'Symbol not found [CBNK]'}
+2024-11-11 18:07:56,907 - Error fetching current price for CBNK: Symbol not found [CBNK]  
+2024-11-11 18:07:56,907 - Skipping stock CBNK due to insufficient budget or price issue.
+2024-11-11 18:07:56,907 - Error while running the bot: 'TradingBot' object has no attribute 'monitor_prices'
+2024-11-11 21:18:53,226 - [Elapsed time 0.186631s]login - success
+2024-11-11 21:18:53,420 - [Elapsed time 0.193374s]get_account_info - success
+2024-11-11 21:18:53,420 - Current balance: $10000000.0
+2024-11-11 21:18:53,467 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-11 21:18:53,467 - [33mPress CTRL+C to quit[0m
+2024-11-11 21:18:53,469 -  * Restarting with stat
+2024-11-11 21:18:54,534 - [Elapsed time 0.176703s]login - success
+2024-11-11 21:18:54,606 - [Elapsed time 0.072280s]get_account_info - success
+2024-11-11 21:18:54,607 - Current balance: $10000000.0
+2024-11-11 21:18:54,650 -  * Debugger is active!
+2024-11-11 21:18:54,655 -  * Debugger PIN: 795-788-126
+2024-11-11 21:19:02,818 - 127.0.0.1 - - [11/Nov/2024 21:19:02] "GET / HTTP/1.1" 200 -
+2024-11-11 21:19:02,913 - 127.0.0.1 - - [11/Nov/2024 21:19:02] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-15 14:49:36,586 - [Elapsed time 0.210109s]login - success
+2024-11-15 14:49:36,673 - [Elapsed time 0.086231s]get_account_info - success
+2024-11-15 14:49:36,673 - Current balance: $10000000.0
+2024-11-15 14:49:36,717 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 14:49:36,717 - [33mPress CTRL+C to quit[0m
+2024-11-15 14:49:36,719 -  * Restarting with stat
+2024-11-15 14:49:37,688 - [Elapsed time 0.210539s]login - success
+2024-11-15 14:49:37,769 - [Elapsed time 0.080030s]get_account_info - success
+2024-11-15 14:49:37,769 - Current balance: $10000000.0
+2024-11-15 14:49:37,786 -  * Debugger is active!
+2024-11-15 14:49:37,788 -  * Debugger PIN: 795-788-126
+2024-11-15 14:49:46,686 - 127.0.0.1 - - [15/Nov/2024 14:49:46] "GET / HTTP/1.1" 200 -
+2024-11-15 14:49:46,861 - 127.0.0.1 - - [15/Nov/2024 14:49:46] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-15 19:06:00,557 - [Elapsed time 0.268563s]login - success
+2024-11-15 19:06:00,658 - [Elapsed time 0.098799s]get_account_info - success
+2024-11-15 19:06:00,659 - Current balance: $10000000.0
+2024-11-15 19:06:00,707 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 19:06:00,707 - [33mPress CTRL+C to quit[0m
+2024-11-15 19:06:00,710 -  * Restarting with stat
+2024-11-15 19:06:02,396 - [Elapsed time 0.202291s]login - success
+2024-11-15 19:06:02,475 - [Elapsed time 0.077780s]get_account_info - success
+2024-11-15 19:06:02,475 - Current balance: $10000000.0
+2024-11-15 19:06:02,494 -  * Debugger is active!
+2024-11-15 19:06:02,499 -  * Debugger PIN: 795-788-126
+2024-11-15 19:06:22,117 - package: mysql.connector.plugins
+2024-11-15 19:06:22,118 - plugin_name: mysql_native_password
+2024-11-15 19:06:22,121 - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-11-15 19:06:22,181 - 127.0.0.1 - - [15/Nov/2024 19:06:22] "[35m[1mPOST /start HTTP/1.1[0m" 500 -
+2024-11-15 19:06:22,385 - 127.0.0.1 - - [15/Nov/2024 19:06:22] "GET /start?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-15 19:06:22,386 - 127.0.0.1 - - [15/Nov/2024 19:06:22] "GET /start?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-15 19:06:22,400 - 127.0.0.1 - - [15/Nov/2024 19:06:22] "GET /start?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-15 19:06:22,428 - 127.0.0.1 - - [15/Nov/2024 19:06:22] "GET /start?__debugger__=yes&cmd=resource&f=console.png&s=LLIMVTgmswc72OgPTCQC HTTP/1.1" 200 -

@@ -1,0 +1,17 @@
+{
+    "api_key": "PK3AA7QTOHMUD0S3F2B4",
+    "secret_key": "ygYhPQuzlX9hUeHxHNz3XIGDZvonqKV7erf8GOuD",
+    "base_url": "https://paper-api.alpaca.markets",
+    "min_value": 50000,
+    "min_insiders": 1,
+    "gain_threshold": 1,
+    "drop_threshold": 1,
+    "min_own_change": 1,
+    "broker_id":"SANDBOX",
+    "app_secret":"AN9IBQAvHHJMmUCvVC1o9LuqimZNtpAV16zawDZGfwgU",
+    "app_id":"H6wCOFvWSLna1w77" ,
+    "app_code":"SANDBOX",
+    "is_auto_queue":"False",
+    "account_no_D":"ananSeti-D",
+    "account_no_E": "ananSeti-E"
+}
