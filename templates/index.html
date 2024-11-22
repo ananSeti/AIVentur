@@ -182,87 +182,127 @@
       <!-- end slider section --> 
     
     </div>
-    <div class="container">
-        <h1> AI Venture Trading  Dashboard(ASL)</h1>
-        <p>Budget: ${{ budget }}</p>
 
-        <h2>Current Positions</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Stock Ticker</th>
-                    <th>Quantity</th>
-                    <th>Buy Price</th>
-                    <th>Current Price</th>
-                    <th>Gain/Loss (%)</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% if positions %}
-                    {% for ticker, data in positions.items() %}
-                    <tr>
-                        <td>{{ ticker }}</td>
-                        <td>{{ data['quantity'] }}</td>
-                        <td>${{ data['buy_price'] }}</td>
-                        <td>${{ data['current_price'] }}</td>
-                        <td>{{ data['gain_loss'] }}%</td>
-                    </tr>
-                    {% endfor %}
-                {% else %}
-                    <tr>
-                        <td colspan="5">No current positions.</td>
-                    </tr>
-                {% endif %}
-            </tbody>
-        </table>
 
-        <h2>Trade History</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Type</th>
-                    <th>Stock Ticker</th>
-                    <th>Quantity</th>
-                    <th>Price</th>
-                    <th>Date</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% if trade_history %}
-                    {% for trade in trade_history %}
-                    <tr>
-                        <td>{{ trade['type'] }}</td>
-                        <td>{{ trade['ticker'] }}</td>
-                        <td>{{ trade['quantity'] }}</td>
-                        <td>${{ trade['price'] }}</td>
-                        <td>{{ trade['date'] }}</td>
-                    </tr>
-                    {% endfor %}
-                {% else %}
-                    <tr>
-                        <td colspan="5">No trades executed.</td>
-                    </tr>
-                {% endif %}
-            </tbody>
-        </table>
+    <!-- Service section-->
+  <section class="service_section layout_padding">
+      <div class="service_contrainer">
+            <div class="container">
+              <div class="heading_container heading_center">
+                <h2>
+                  AI Venture Trading  Dashboard <span>(ASL)</span>
+                </h2>
+                <p>
+                  THere are many ... things
+                </p>
+              </div>
+          
+          <p>Budget: ${{ budget }}</p>
 
-        <h3>Start Trading</h3>
-        <form action="/start" method="POST">
-            <label for="url">Custom OpenInsider URL:</label>
-            <input type="text" name="url" required>
+          <h2>Current Positions</h2>
+          <table>
+              <thead>
+                  <tr>
+                      <th>Stock Ticker</th>
+                      <th>Quantity</th>
+                      <th>Buy Price</th>
+                      <th>Current Price</th>
+                      <th>Gain/Loss (%)</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% if positions %}
+                      {% for ticker, data in positions.items() %}
+                      <tr>
+                          <td>{{ ticker }}</td>
+                          <td>{{ data['quantity'] }}</td>
+                          <td>${{ data['buy_price'] }}</td>
+                          <td>${{ data['current_price'] }}</td>
+                          <td>{{ data['gain_loss'] }}%</td>
+                      </tr>
+                      {% endfor %}
+                  {% else %}
+                      <tr>
+                          <td colspan="5">No current positions.</td>
+                      </tr>
+                  {% endif %}
+              </tbody>
+          </table>
+
+          <h2>Trade History</h2>
+          <table>
+              <thead>
+                  <tr>
+                      <th>Type</th>
+                      <th>Stock Ticker</th>
+                      <th>Quantity</th>
+                      <th>Price</th>
+                      <th>Date</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  {% if trade_history %}
+                      {% for trade in trade_history %}
+                      <tr>
+                          <td>{{ trade['type'] }}</td>
+                          <td>{{ trade['ticker'] }}</td>
+                          <td>{{ trade['quantity'] }}</td>
+                          <td>${{ trade['price'] }}</td>
+                          <td>{{ trade['date'] }}</td>
+                      </tr>
+                      {% endfor %}
+                  {% else %}
+                      <tr>
+                          <td colspan="5">No trades executed.</td>
+                      </tr>
+                  {% endif %}
+              </tbody>
+          </table>
+        <!---  start filter  --> 
+            <h2>Start Trading</h2>
             
-            <label for="gain_threshold">Gain Threshold (%):</label>
-            <input type="number" step="0.1" name="gain_threshold" value="3">
-            
-            <label for="drop_threshold">Drop Threshold (%):</label>
-            <input type="number" step="0.1" name="drop_threshold" value="1">
-            
-            <button type="submit">Start Trading</button>
-        </form>
+            <form action="/start" method="POST">
+              <div class="row">
+                <div class="col-md-4">
+                   <div class="box">
+                    <label for="url">Custom OpenInsider URL:</label>
+                    <input type="text" name="url" required>
+                    
+                    <label for="gain_threshold">Gain Threshold (%):</label>
+                    <input type="number" step="0.5" name="gain_threshold" value="5">
+                    
+                    <label for="drop_threshold">Drop Threshold (%):</label>
+                    <input type="number" step="0.5" name="drop_threshold" value="1">
+                   </div>
+                </div>
+                <div class="col-md-4">
+                   <div class="box">                                  
+                    <div class="contact_link_box"> 
+                        <input type="radio" id="autoTrade" name="autoTrade" value="AutoTrade">
+                         <label for="Auto_trade">:auto take profit </label> 
 
-        <h3>Stop Trading</h3>
-        <button class="stop-btn" onclick="stopTrading()">Stop Trading</button>
-    </div>
+                        <input type="radio" id="manualTrade" name="autoTrade" value="manualTrade">
+                        <label for="manual_trade">:manual take profit</label> 
+                    </div> 
+                  </div>
+                                    
+               </div>
+               
+
+              </div>
+
+                           
+                            
+                            <button type="submit">Start Trading</button>
+            </form>
+         <!-- end filter-->   
+          <h3>Stop Trading</h3>
+          <button class="stop-btn" onclick="stopTrading()">Stop Trading</button>
+            </div>
+        
+      </div>
+  </section>
+  <!--En service section-->
 
    
   <!-- info section -->

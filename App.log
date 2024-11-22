@@ -1576,3 +1576,608 @@ Your order cannot be proceeded.
 2024-11-21 17:06:38,483 - 127.0.0.1 - - [21/Nov/2024 17:06:38] "GET / HTTP/1.1" 200 -
 2024-11-21 17:06:38,748 - 127.0.0.1 - - [21/Nov/2024 17:06:38] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
 2024-11-21 17:06:39,075 - 127.0.0.1 - - [21/Nov/2024 17:06:39] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:15:01,215 - [Elapsed time 0.275705s]login - success
+2024-11-22 16:15:01,354 - [Elapsed time 0.139517s]get_account_info - success
+2024-11-22 16:15:01,355 - Current balance: $10000000.0
+2024-11-22 16:15:01,391 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:15:01,391 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:15:01,393 -  * Restarting with stat
+2024-11-22 16:15:02,525 - [Elapsed time 0.205695s]login - success
+2024-11-22 16:15:02,606 - [Elapsed time 0.080084s]get_account_info - success
+2024-11-22 16:15:02,606 - Current balance: $10000000.0
+2024-11-22 16:15:02,619 -  * Debugger is active!
+2024-11-22 16:15:02,622 -  * Debugger PIN: 795-788-126
+2024-11-22 16:15:10,003 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET / HTTP/1.1" 200 -
+2024-11-22 16:15:10,307 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-11-22 16:15:10,337 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/css/bootstrap.css HTTP/1.1" 200 -
+2024-11-22 16:15:10,342 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/css/font-awesome.min.css HTTP/1.1" 200 -
+2024-11-22 16:15:10,345 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/css/responsive.css HTTP/1.1" 200 -
+2024-11-22 16:15:10,347 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/images/hero-bg.png HTTP/1.1" 200 -
+2024-11-22 16:15:10,347 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/images/slider-img.png HTTP/1.1" 200 -
+2024-11-22 16:15:10,624 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2024-11-22 16:15:10,656 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/js/jquery-3.4.1.min.js HTTP/1.1" 200 -
+2024-11-22 16:15:10,657 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/js/bootstrap.js HTTP/1.1" 200 -
+2024-11-22 16:15:10,702 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET / HTTP/1.1" 200 -
+2024-11-22 16:15:10,979 - 127.0.0.1 - - [22/Nov/2024 16:15:10] "GET /static/js/custom.js HTTP/1.1" 200 -
+2024-11-22 16:15:11,310 - 127.0.0.1 - - [22/Nov/2024 16:15:11] "GET /static/images/favicon.png HTTP/1.1" 200 -
+2024-11-22 16:15:11,559 - 127.0.0.1 - - [22/Nov/2024 16:15:11] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:25:11,250 - [Elapsed time 0.242112s]login - success
+2024-11-22 16:25:11,328 - [Elapsed time 0.077051s]get_account_info - success
+2024-11-22 16:25:11,328 - Current balance: $10000000.0
+2024-11-22 16:25:11,348 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:25:11,348 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:25:11,350 -  * Restarting with stat
+2024-11-22 16:25:12,567 - [Elapsed time 0.199695s]login - success
+2024-11-22 16:25:12,637 - [Elapsed time 0.067910s]get_account_info - success
+2024-11-22 16:25:12,637 - Current balance: $10000000.0
+2024-11-22 16:25:12,653 -  * Debugger is active!
+2024-11-22 16:25:12,656 -  * Debugger PIN: 795-788-126
+2024-11-22 16:25:16,667 - 127.0.0.1 - - [22/Nov/2024 16:25:16] "GET / HTTP/1.1" 200 -
+2024-11-22 16:25:17,001 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,004 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,005 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,009 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,069 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,323 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,324 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,325 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,330 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,396 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "GET / HTTP/1.1" 200 -
+2024-11-22 16:25:17,666 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:25:17,671 - 127.0.0.1 - - [22/Nov/2024 16:25:17] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:25:18,286 - 127.0.0.1 - - [22/Nov/2024 16:25:18] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:29:51,876 - [Elapsed time 0.209848s]login - success
+2024-11-22 16:29:51,955 - [Elapsed time 0.077656s]get_account_info - success
+2024-11-22 16:29:51,955 - Current balance: $10000000.0
+2024-11-22 16:29:51,972 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:29:51,973 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:29:51,974 -  * Restarting with stat
+2024-11-22 16:29:52,958 - [Elapsed time 0.183573s]login - success
+2024-11-22 16:29:53,034 - [Elapsed time 0.075876s]get_account_info - success
+2024-11-22 16:29:53,034 - Current balance: $10000000.0
+2024-11-22 16:29:53,047 -  * Debugger is active!
+2024-11-22 16:29:53,051 -  * Debugger PIN: 795-788-126
+2024-11-22 16:29:55,190 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "GET / HTTP/1.1" 200 -
+2024-11-22 16:29:55,281 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,525 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,526 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,528 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,835 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,837 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,841 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,849 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,853 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:29:55,860 - 127.0.0.1 - - [22/Nov/2024 16:29:55] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:29:56,159 - 127.0.0.1 - - [22/Nov/2024 16:29:56] "GET / HTTP/1.1" 200 -
+2024-11-22 16:29:56,174 - 127.0.0.1 - - [22/Nov/2024 16:29:56] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:29:57,028 - 127.0.0.1 - - [22/Nov/2024 16:29:57] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:31:00,544 - [Elapsed time 0.198286s]login - success
+2024-11-22 16:31:00,622 - [Elapsed time 0.077328s]get_account_info - success
+2024-11-22 16:31:00,622 - Current balance: $10000000.0
+2024-11-22 16:31:00,640 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:31:00,640 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:31:00,641 -  * Restarting with stat
+2024-11-22 16:31:01,645 - [Elapsed time 0.190806s]login - success
+2024-11-22 16:31:01,722 - [Elapsed time 0.077044s]get_account_info - success
+2024-11-22 16:31:01,722 - Current balance: $10000000.0
+2024-11-22 16:31:01,736 -  * Debugger is active!
+2024-11-22 16:31:01,738 -  * Debugger PIN: 795-788-126
+2024-11-22 16:31:03,795 - 127.0.0.1 - - [22/Nov/2024 16:31:03] "GET / HTTP/1.1" 200 -
+2024-11-22 16:31:03,883 - 127.0.0.1 - - [22/Nov/2024 16:31:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,141 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,143 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,143 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,145 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,147 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,201 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,451 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,454 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,455 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:31:04,775 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "GET / HTTP/1.1" 200 -
+2024-11-22 16:31:04,777 - 127.0.0.1 - - [22/Nov/2024 16:31:04] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:31:05,337 - 127.0.0.1 - - [22/Nov/2024 16:31:05] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:43:49,091 - [Elapsed time 0.263735s]login - success
+2024-11-22 16:43:49,174 - [Elapsed time 0.082972s]get_account_info - success
+2024-11-22 16:43:49,175 - Current balance: $10000000.0
+2024-11-22 16:43:49,190 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:43:49,190 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:43:49,192 -  * Restarting with stat
+2024-11-22 16:43:50,397 - [Elapsed time 0.282129s]login - success
+2024-11-22 16:43:50,470 - [Elapsed time 0.072993s]get_account_info - success
+2024-11-22 16:43:50,470 - Current balance: $10000000.0
+2024-11-22 16:43:50,483 -  * Debugger is active!
+2024-11-22 16:43:50,486 -  * Debugger PIN: 795-788-126
+2024-11-22 16:43:55,151 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "GET / HTTP/1.1" 200 -
+2024-11-22 16:43:55,474 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,482 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,487 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,488 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,488 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,491 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,790 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,793 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,794 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:43:55,807 - 127.0.0.1 - - [22/Nov/2024 16:43:55] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:43:56,120 - 127.0.0.1 - - [22/Nov/2024 16:43:56] "GET / HTTP/1.1" 200 -
+2024-11-22 16:43:56,135 - 127.0.0.1 - - [22/Nov/2024 16:43:56] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:43:56,946 - 127.0.0.1 - - [22/Nov/2024 16:43:56] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:47:05,659 - [Elapsed time 0.237350s]login - success
+2024-11-22 16:47:05,738 - [Elapsed time 0.078913s]get_account_info - success
+2024-11-22 16:47:05,739 - Current balance: $10000000.0
+2024-11-22 16:47:05,759 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:47:05,759 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:47:05,761 -  * Restarting with stat
+2024-11-22 16:47:11,797 - [Elapsed time 0.211601s]login - success
+2024-11-22 16:47:11,877 - [Elapsed time 0.080155s]get_account_info - success
+2024-11-22 16:47:11,877 - Current balance: $10000000.0
+2024-11-22 16:47:11,894 -  * Debugger is active!
+2024-11-22 16:47:11,896 -  * Debugger PIN: 795-788-126
+2024-11-22 16:47:13,771 - 127.0.0.1 - - [22/Nov/2024 16:47:13] "GET / HTTP/1.1" 200 -
+2024-11-22 16:47:13,862 - 127.0.0.1 - - [22/Nov/2024 16:47:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,107 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,109 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,110 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,112 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,116 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,168 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,416 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,417 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,422 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:47:14,743 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "GET / HTTP/1.1" 200 -
+2024-11-22 16:47:14,759 - 127.0.0.1 - - [22/Nov/2024 16:47:14] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:47:15,316 - 127.0.0.1 - - [22/Nov/2024 16:47:15] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:48:42,375 - [Elapsed time 0.213842s]login - success
+2024-11-22 16:48:42,458 - [Elapsed time 0.082308s]get_account_info - success
+2024-11-22 16:48:42,458 - Current balance: $10000000.0
+2024-11-22 16:48:42,478 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:48:42,478 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:48:42,480 -  * Restarting with stat
+2024-11-22 16:48:43,541 - [Elapsed time 0.204070s]login - success
+2024-11-22 16:48:43,615 - [Elapsed time 0.073995s]get_account_info - success
+2024-11-22 16:48:43,616 - Current balance: $10000000.0
+2024-11-22 16:48:43,630 -  * Debugger is active!
+2024-11-22 16:48:43,632 -  * Debugger PIN: 795-788-126
+2024-11-22 16:48:48,556 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "GET / HTTP/1.1" 200 -
+2024-11-22 16:48:48,869 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:48:48,888 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:48:48,892 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:48:48,892 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:48:48,896 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:48:48,898 - 127.0.0.1 - - [22/Nov/2024 16:48:48] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:48:49,180 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:48:49,195 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:48:49,199 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:48:49,211 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "GET / HTTP/1.1" 200 -
+2024-11-22 16:48:49,505 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:48:49,835 - 127.0.0.1 - - [22/Nov/2024 16:48:49] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:48:50,082 - 127.0.0.1 - - [22/Nov/2024 16:48:50] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:49:37,901 - [Elapsed time 0.227696s]login - success
+2024-11-22 16:49:37,984 - [Elapsed time 0.082576s]get_account_info - success
+2024-11-22 16:49:37,985 - Current balance: $10000000.0
+2024-11-22 16:49:38,003 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:49:38,003 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:49:38,003 -  * Restarting with stat
+2024-11-22 16:49:39,085 - [Elapsed time 0.194686s]login - success
+2024-11-22 16:49:39,160 - [Elapsed time 0.075264s]get_account_info - success
+2024-11-22 16:49:39,160 - Current balance: $10000000.0
+2024-11-22 16:49:39,174 -  * Debugger is active!
+2024-11-22 16:49:39,177 -  * Debugger PIN: 795-788-126
+2024-11-22 16:49:43,013 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "GET / HTTP/1.1" 200 -
+2024-11-22 16:49:43,322 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,351 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,351 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,354 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,355 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,357 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,632 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,667 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,669 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,674 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:49:43,984 - 127.0.0.1 - - [22/Nov/2024 16:49:43] "GET / HTTP/1.1" 200 -
+2024-11-22 16:49:44,001 - 127.0.0.1 - - [22/Nov/2024 16:49:44] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:49:44,552 - 127.0.0.1 - - [22/Nov/2024 16:49:44] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:50:53,761 - [Elapsed time 0.217888s]login - success
+2024-11-22 16:50:53,838 - [Elapsed time 0.076751s]get_account_info - success
+2024-11-22 16:50:53,839 - Current balance: $10000000.0
+2024-11-22 16:50:53,860 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:50:53,860 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:50:53,861 -  * Restarting with stat
+2024-11-22 16:50:55,209 - [Elapsed time 0.354884s]login - success
+2024-11-22 16:50:55,275 - [Elapsed time 0.066400s]get_account_info - success
+2024-11-22 16:50:55,276 - Current balance: $10000000.0
+2024-11-22 16:50:55,290 -  * Debugger is active!
+2024-11-22 16:50:55,293 -  * Debugger PIN: 795-788-126
+2024-11-22 16:50:57,187 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "GET / HTTP/1.1" 200 -
+2024-11-22 16:50:57,292 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,536 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,537 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,538 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,541 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,542 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,596 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,847 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,847 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:50:57,854 - 127.0.0.1 - - [22/Nov/2024 16:50:57] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:50:58,169 - 127.0.0.1 - - [22/Nov/2024 16:50:58] "GET / HTTP/1.1" 200 -
+2024-11-22 16:50:58,170 - 127.0.0.1 - - [22/Nov/2024 16:50:58] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:50:59,039 - 127.0.0.1 - - [22/Nov/2024 16:50:59] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:51:56,536 - [Elapsed time 0.216228s]login - success
+2024-11-22 16:51:56,610 - [Elapsed time 0.072815s]get_account_info - success
+2024-11-22 16:51:56,610 - Current balance: $10000000.0
+2024-11-22 16:51:56,630 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:51:56,630 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:51:56,631 -  * Restarting with stat
+2024-11-22 16:51:57,724 - [Elapsed time 0.222776s]login - success
+2024-11-22 16:51:57,802 - [Elapsed time 0.076391s]get_account_info - success
+2024-11-22 16:51:57,802 - Current balance: $10000000.0
+2024-11-22 16:51:57,817 -  * Debugger is active!
+2024-11-22 16:51:57,819 -  * Debugger PIN: 795-788-126
+2024-11-22 16:51:59,955 - 127.0.0.1 - - [22/Nov/2024 16:51:59] "GET / HTTP/1.1" 200 -
+2024-11-22 16:52:00,044 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,293 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,294 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,295 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,298 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,300 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,354 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,603 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,604 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:52:00,611 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "GET / HTTP/1.1" 200 -
+2024-11-22 16:52:00,912 - 127.0.0.1 - - [22/Nov/2024 16:52:00] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:52:01,239 - 127.0.0.1 - - [22/Nov/2024 16:52:01] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:52:01,486 - 127.0.0.1 - - [22/Nov/2024 16:52:01] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:54:04,122 - [Elapsed time 0.213289s]login - success
+2024-11-22 16:54:04,198 - [Elapsed time 0.074797s]get_account_info - success
+2024-11-22 16:54:04,199 - Current balance: $10000000.0
+2024-11-22 16:54:04,218 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:54:04,218 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:54:04,219 -  * Restarting with stat
+2024-11-22 16:54:05,425 - [Elapsed time 0.274158s]login - success
+2024-11-22 16:54:05,506 - [Elapsed time 0.080301s]get_account_info - success
+2024-11-22 16:54:05,506 - Current balance: $10000000.0
+2024-11-22 16:54:05,519 -  * Debugger is active!
+2024-11-22 16:54:05,521 -  * Debugger PIN: 795-788-126
+2024-11-22 16:54:07,932 - 127.0.0.1 - - [22/Nov/2024 16:54:07] "GET / HTTP/1.1" 200 -
+2024-11-22 16:54:08,248 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,264 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,264 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,266 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,269 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,271 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,561 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,578 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,578 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,581 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:54:08,900 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "GET / HTTP/1.1" 200 -
+2024-11-22 16:54:08,904 - 127.0.0.1 - - [22/Nov/2024 16:54:08] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:54:09,737 - 127.0.0.1 - - [22/Nov/2024 16:54:09] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:16,541 - [Elapsed time 0.240502s]login - success
+2024-11-22 16:55:16,627 - [Elapsed time 0.084413s]get_account_info - success
+2024-11-22 16:55:16,627 - Current balance: $10000000.0
+2024-11-22 16:55:16,649 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:55:16,649 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:55:16,651 -  * Restarting with stat
+2024-11-22 16:55:17,847 - [Elapsed time 0.199765s]login - success
+2024-11-22 16:55:17,913 - [Elapsed time 0.065270s]get_account_info - success
+2024-11-22 16:55:17,913 - Current balance: $10000000.0
+2024-11-22 16:55:17,930 -  * Debugger is active!
+2024-11-22 16:55:17,933 -  * Debugger PIN: 795-788-126
+2024-11-22 16:55:21,249 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "GET / HTTP/1.1" 200 -
+2024-11-22 16:55:21,562 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,584 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,586 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,588 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,589 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,589 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,876 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,891 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,893 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:21,900 - 127.0.0.1 - - [22/Nov/2024 16:55:21] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:22,201 - 127.0.0.1 - - [22/Nov/2024 16:55:22] "GET / HTTP/1.1" 200 -
+2024-11-22 16:55:22,219 - 127.0.0.1 - - [22/Nov/2024 16:55:22] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:23,091 - 127.0.0.1 - - [22/Nov/2024 16:55:23] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:36,134 - [Elapsed time 0.219140s]login - success
+2024-11-22 16:55:36,206 - [Elapsed time 0.071214s]get_account_info - success
+2024-11-22 16:55:36,206 - Current balance: $10000000.0
+2024-11-22 16:55:36,225 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:55:36,225 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:55:36,226 -  * Restarting with stat
+2024-11-22 16:55:37,294 - [Elapsed time 0.203755s]login - success
+2024-11-22 16:55:37,354 - [Elapsed time 0.059783s]get_account_info - success
+2024-11-22 16:55:37,354 - Current balance: $10000000.0
+2024-11-22 16:55:37,369 -  * Debugger is active!
+2024-11-22 16:55:37,371 -  * Debugger PIN: 795-788-126
+2024-11-22 16:55:39,387 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "GET / HTTP/1.1" 200 -
+2024-11-22 16:55:39,471 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,728 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,730 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,733 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,735 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,737 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:39,790 - 127.0.0.1 - - [22/Nov/2024 16:55:39] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:40,040 - 127.0.0.1 - - [22/Nov/2024 16:55:40] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:40,042 - 127.0.0.1 - - [22/Nov/2024 16:55:40] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:55:40,351 - 127.0.0.1 - - [22/Nov/2024 16:55:40] "GET / HTTP/1.1" 200 -
+2024-11-22 16:55:40,355 - 127.0.0.1 - - [22/Nov/2024 16:55:40] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:55:40,911 - 127.0.0.1 - - [22/Nov/2024 16:55:40] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,013 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "GET / HTTP/1.1" 200 -
+2024-11-22 16:57:47,281 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,340 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,346 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,348 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,348 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,350 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,588 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,653 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,653 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:57:47,964 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "GET / HTTP/1.1" 200 -
+2024-11-22 16:57:47,969 - 127.0.0.1 - - [22/Nov/2024 16:57:47] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:57:48,527 - 127.0.0.1 - - [22/Nov/2024 16:57:48] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:32,553 - [Elapsed time 0.243208s]login - success
+2024-11-22 16:58:32,639 - [Elapsed time 0.085797s]get_account_info - success
+2024-11-22 16:58:32,640 - Current balance: $10000000.0
+2024-11-22 16:58:32,665 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 16:58:32,665 - [33mPress CTRL+C to quit[0m
+2024-11-22 16:58:32,665 -  * Restarting with stat
+2024-11-22 16:58:33,643 - [Elapsed time 0.192010s]login - success
+2024-11-22 16:58:33,720 - [Elapsed time 0.076558s]get_account_info - success
+2024-11-22 16:58:33,720 - Current balance: $10000000.0
+2024-11-22 16:58:33,735 -  * Debugger is active!
+2024-11-22 16:58:33,736 -  * Debugger PIN: 795-788-126
+2024-11-22 16:58:39,124 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "GET / HTTP/1.1" 200 -
+2024-11-22 16:58:39,441 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,459 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,461 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,465 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,465 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,467 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,752 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,769 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:39,770 - 127.0.0.1 - - [22/Nov/2024 16:58:39] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:40,081 - 127.0.0.1 - - [22/Nov/2024 16:58:40] "GET / HTTP/1.1" 200 -
+2024-11-22 16:58:40,088 - 127.0.0.1 - - [22/Nov/2024 16:58:40] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:40,665 - 127.0.0.1 - - [22/Nov/2024 16:58:40] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:46,677 - 127.0.0.1 - - [22/Nov/2024 16:58:46] "GET / HTTP/1.1" 200 -
+2024-11-22 16:58:46,940 - 127.0.0.1 - - [22/Nov/2024 16:58:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,002 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,018 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,021 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,023 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,025 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,251 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,313 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,327 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "GET / HTTP/1.1" 200 -
+2024-11-22 16:58:47,620 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 16:58:47,942 - 127.0.0.1 - - [22/Nov/2024 16:58:47] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 16:58:48,205 - 127.0.0.1 - - [22/Nov/2024 16:58:48] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:04:00,076 - [Elapsed time 0.216774s]login - success
+2024-11-22 17:04:00,163 - [Elapsed time 0.085654s]get_account_info - success
+2024-11-22 17:04:00,163 - Current balance: $10000000.0
+2024-11-22 17:04:00,186 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:04:00,186 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:04:00,187 -  * Restarting with stat
+2024-11-22 17:04:01,401 - [Elapsed time 0.191516s]login - success
+2024-11-22 17:04:01,478 - [Elapsed time 0.077233s]get_account_info - success
+2024-11-22 17:04:01,478 - Current balance: $10000000.0
+2024-11-22 17:04:01,494 -  * Debugger is active!
+2024-11-22 17:04:01,497 -  * Debugger PIN: 795-788-126
+2024-11-22 17:04:04,253 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "GET / HTTP/1.1" 200 -
+2024-11-22 17:04:04,579 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,582 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,584 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,587 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,588 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,590 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,893 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,893 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:04:04,896 - 127.0.0.1 - - [22/Nov/2024 17:04:04] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:04:05,203 - 127.0.0.1 - - [22/Nov/2024 17:04:05] "GET / HTTP/1.1" 200 -
+2024-11-22 17:04:05,217 - 127.0.0.1 - - [22/Nov/2024 17:04:05] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:04:05,990 - 127.0.0.1 - - [22/Nov/2024 17:04:05] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:05:05,696 - [Elapsed time 0.259406s]login - success
+2024-11-22 17:05:05,780 - [Elapsed time 0.083193s]get_account_info - success
+2024-11-22 17:05:05,780 - Current balance: $10000000.0
+2024-11-22 17:05:05,802 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:05:05,802 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:05:05,803 -  * Restarting with stat
+2024-11-22 17:05:06,931 - [Elapsed time 0.200069s]login - success
+2024-11-22 17:05:06,999 - [Elapsed time 0.067336s]get_account_info - success
+2024-11-22 17:05:07,000 - Current balance: $10000000.0
+2024-11-22 17:05:07,014 -  * Debugger is active!
+2024-11-22 17:05:07,016 -  * Debugger PIN: 795-788-126
+2024-11-22 17:05:09,092 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "GET / HTTP/1.1" 200 -
+2024-11-22 17:05:09,174 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,429 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,430 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,433 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,434 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,437 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,490 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,738 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:05:09,739 - 127.0.0.1 - - [22/Nov/2024 17:05:09] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:05:10,046 - 127.0.0.1 - - [22/Nov/2024 17:05:10] "GET / HTTP/1.1" 200 -
+2024-11-22 17:05:10,060 - 127.0.0.1 - - [22/Nov/2024 17:05:10] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:05:10,600 - 127.0.0.1 - - [22/Nov/2024 17:05:10] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:06:40,197 - [Elapsed time 0.218785s]login - success
+2024-11-22 17:06:40,282 - [Elapsed time 0.083967s]get_account_info - success
+2024-11-22 17:06:40,282 - Current balance: $10000000.0
+2024-11-22 17:06:40,299 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:06:40,299 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:06:40,300 -  * Restarting with stat
+2024-11-22 17:06:41,549 - [Elapsed time 0.211804s]login - success
+2024-11-22 17:06:41,624 - [Elapsed time 0.075062s]get_account_info - success
+2024-11-22 17:06:41,624 - Current balance: $10000000.0
+2024-11-22 17:06:41,638 -  * Debugger is active!
+2024-11-22 17:06:41,641 -  * Debugger PIN: 795-788-126
+2024-11-22 17:06:43,518 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "GET / HTTP/1.1" 200 -
+2024-11-22 17:06:43,609 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,857 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,860 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,863 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,864 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,865 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:06:43,919 - 127.0.0.1 - - [22/Nov/2024 17:06:43] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:06:44,168 - 127.0.0.1 - - [22/Nov/2024 17:06:44] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:06:44,168 - 127.0.0.1 - - [22/Nov/2024 17:06:44] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:06:44,477 - 127.0.0.1 - - [22/Nov/2024 17:06:44] "GET / HTTP/1.1" 200 -
+2024-11-22 17:06:44,482 - 127.0.0.1 - - [22/Nov/2024 17:06:44] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:06:45,043 - 127.0.0.1 - - [22/Nov/2024 17:06:45] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:16,316 - [Elapsed time 0.230614s]login - success
+2024-11-22 17:07:16,405 - [Elapsed time 0.089239s]get_account_info - success
+2024-11-22 17:07:16,405 - Current balance: $10000000.0
+2024-11-22 17:07:16,423 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:07:16,423 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:07:16,426 -  * Restarting with stat
+2024-11-22 17:07:17,490 - [Elapsed time 0.228834s]login - success
+2024-11-22 17:07:17,567 - [Elapsed time 0.077234s]get_account_info - success
+2024-11-22 17:07:17,567 - Current balance: $10000000.0
+2024-11-22 17:07:17,583 -  * Debugger is active!
+2024-11-22 17:07:17,585 -  * Debugger PIN: 795-788-126
+2024-11-22 17:07:19,724 - 127.0.0.1 - - [22/Nov/2024 17:07:19] "GET / HTTP/1.1" 200 -
+2024-11-22 17:07:19,961 - 127.0.0.1 - - [22/Nov/2024 17:07:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,089 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,091 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,093 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,094 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,096 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,276 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,403 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,404 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:20,714 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "GET / HTTP/1.1" 200 -
+2024-11-22 17:07:20,719 - 127.0.0.1 - - [22/Nov/2024 17:07:20] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:21,523 - 127.0.0.1 - - [22/Nov/2024 17:07:21] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:44,051 - [Elapsed time 0.225345s]login - success
+2024-11-22 17:07:44,119 - [Elapsed time 0.068641s]get_account_info - success
+2024-11-22 17:07:44,119 - Current balance: $10000000.0
+2024-11-22 17:07:44,137 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:07:44,137 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:07:44,138 -  * Restarting with stat
+2024-11-22 17:07:45,368 - [Elapsed time 0.286625s]login - success
+2024-11-22 17:07:45,439 - [Elapsed time 0.071091s]get_account_info - success
+2024-11-22 17:07:45,439 - Current balance: $10000000.0
+2024-11-22 17:07:45,452 -  * Debugger is active!
+2024-11-22 17:07:45,456 -  * Debugger PIN: 795-788-126
+2024-11-22 17:07:47,481 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "GET / HTTP/1.1" 200 -
+2024-11-22 17:07:47,566 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,819 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,819 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,823 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,824 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,827 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:47,880 - 127.0.0.1 - - [22/Nov/2024 17:07:47] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:48,130 - 127.0.0.1 - - [22/Nov/2024 17:07:48] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:48,131 - 127.0.0.1 - - [22/Nov/2024 17:07:48] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:07:48,442 - 127.0.0.1 - - [22/Nov/2024 17:07:48] "GET / HTTP/1.1" 200 -
+2024-11-22 17:07:48,446 - 127.0.0.1 - - [22/Nov/2024 17:07:48] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:07:48,996 - 127.0.0.1 - - [22/Nov/2024 17:07:48] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:03,030 - [Elapsed time 0.239786s]login - success
+2024-11-22 17:09:03,108 - [Elapsed time 0.078175s]get_account_info - success
+2024-11-22 17:09:03,108 - Current balance: $10000000.0
+2024-11-22 17:09:03,130 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:09:03,130 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:09:03,131 -  * Restarting with stat
+2024-11-22 17:09:04,156 - [Elapsed time 0.208917s]login - success
+2024-11-22 17:09:04,224 - [Elapsed time 0.067749s]get_account_info - success
+2024-11-22 17:09:04,224 - Current balance: $10000000.0
+2024-11-22 17:09:04,238 -  * Debugger is active!
+2024-11-22 17:09:04,240 -  * Debugger PIN: 795-788-126
+2024-11-22 17:09:08,574 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "GET / HTTP/1.1" 200 -
+2024-11-22 17:09:08,899 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:08,903 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:08,905 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:08,908 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:08,911 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:08,912 - 127.0.0.1 - - [22/Nov/2024 17:09:08] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:09,221 - 127.0.0.1 - - [22/Nov/2024 17:09:09] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:09,221 - 127.0.0.1 - - [22/Nov/2024 17:09:09] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:09,222 - 127.0.0.1 - - [22/Nov/2024 17:09:09] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:09,541 - 127.0.0.1 - - [22/Nov/2024 17:09:09] "GET / HTTP/1.1" 200 -
+2024-11-22 17:09:09,543 - 127.0.0.1 - - [22/Nov/2024 17:09:09] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:10,361 - 127.0.0.1 - - [22/Nov/2024 17:09:10] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:12,769 - 127.0.0.1 - - [22/Nov/2024 17:09:12] "GET / HTTP/1.1" 200 -
+2024-11-22 17:09:13,019 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,095 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,098 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,100 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,102 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,102 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,329 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,407 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,408 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:09:13,718 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "GET / HTTP/1.1" 200 -
+2024-11-22 17:09:13,721 - 127.0.0.1 - - [22/Nov/2024 17:09:13] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:09:15,090 - 127.0.0.1 - - [22/Nov/2024 17:09:15] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:10:32,360 - [Elapsed time 0.235062s]login - success
+2024-11-22 17:10:32,442 - [Elapsed time 0.081856s]get_account_info - success
+2024-11-22 17:10:32,442 - Current balance: $10000000.0
+2024-11-22 17:10:32,463 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:10:32,463 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:10:32,464 -  * Restarting with stat
+2024-11-22 17:10:33,504 - [Elapsed time 0.197540s]login - success
+2024-11-22 17:10:33,573 - [Elapsed time 0.068872s]get_account_info - success
+2024-11-22 17:10:33,573 - Current balance: $10000000.0
+2024-11-22 17:10:33,587 -  * Debugger is active!
+2024-11-22 17:10:33,589 -  * Debugger PIN: 795-788-126
+2024-11-22 17:10:35,765 - 127.0.0.1 - - [22/Nov/2024 17:10:35] "GET / HTTP/1.1" 200 -
+2024-11-22 17:10:35,850 - 127.0.0.1 - - [22/Nov/2024 17:10:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,087 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,090 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,090 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,091 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,094 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,177 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,396 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,397 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:10:36,457 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "GET / HTTP/1.1" 200 -
+2024-11-22 17:10:36,721 - 127.0.0.1 - - [22/Nov/2024 17:10:36] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:10:37,044 - 127.0.0.1 - - [22/Nov/2024 17:10:37] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:10:37,296 - 127.0.0.1 - - [22/Nov/2024 17:10:37] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:11:02,902 - [Elapsed time 0.204350s]login - success
+2024-11-22 17:11:02,976 - [Elapsed time 0.072898s]get_account_info - success
+2024-11-22 17:11:02,976 - Current balance: $10000000.0
+2024-11-22 17:11:02,999 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 17:11:03,000 - [33mPress CTRL+C to quit[0m
+2024-11-22 17:11:03,001 -  * Restarting with stat
+2024-11-22 17:11:04,077 - [Elapsed time 0.192218s]login - success
+2024-11-22 17:11:04,143 - [Elapsed time 0.065593s]get_account_info - success
+2024-11-22 17:11:04,143 - Current balance: $10000000.0
+2024-11-22 17:11:04,160 -  * Debugger is active!
+2024-11-22 17:11:04,163 -  * Debugger PIN: 795-788-126
+2024-11-22 17:11:08,054 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "GET / HTTP/1.1" 200 -
+2024-11-22 17:11:08,360 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,389 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,390 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,392 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/css/responsive.css HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,396 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/images/hero-bg.png HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,397 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/images/slider-img.png HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,667 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,698 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,699 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+2024-11-22 17:11:08,711 - 127.0.0.1 - - [22/Nov/2024 17:11:08] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+2024-11-22 17:11:09,023 - 127.0.0.1 - - [22/Nov/2024 17:11:09] "GET / HTTP/1.1" 200 -
+2024-11-22 17:11:09,027 - 127.0.0.1 - - [22/Nov/2024 17:11:09] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:11:09,889 - 127.0.0.1 - - [22/Nov/2024 17:11:09] "[36mGET /static/images/favicon.png HTTP/1.1[0m" 304 -
+2024-11-22 17:12:14,491 - Stoping the trading...
+2024-11-22 17:12:14,491 - 127.0.0.1 - - [22/Nov/2024 17:12:14] "POST /stop HTTP/1.1" 200 -
