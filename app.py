@@ -1,11 +1,17 @@
 import threading
-from flask import Flask, render_template, request, jsonify
+from flask import Flask,g, render_template, request, jsonify
 from trading_bot import TradingBot,scrape_openinsider,get_insider, trade_history ,lock
 import logging
 import connectDB
+import auth,leader
+
 
 # Initialize the Flask app
 app = Flask(__name__)
+app.config.from_mapping(SECRET_KEY='dev',)
+# init auth
+app.register_blueprint(auth.bp)
+app.register_blueprint(leader.bp)
 
 # Initialize the trading bot
 bot = TradingBot()
@@ -38,6 +44,7 @@ def index():
             budget= bot.budget,
             positions= positions_with_prices,
             trade_history=trade_history,
+        
         )
 def run_bot(insider_data, gain_threshold, drop_threshold):
     """

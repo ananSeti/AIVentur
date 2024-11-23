@@ -28,7 +28,7 @@ def register_member(username,password,email):
 def login(username,password):
     connection = create_connection()
     cursor = connection.cursor()
-
+    error = None 
     try:
         cursor.execute("SELECT * from members WHERE username =%s AND password = %s",
                        (username,password))
@@ -36,13 +36,40 @@ def login(username,password):
         if user:
             print("login success")
             logging.info(f"login success : {username}")
+            return user
         else:
-            print("user or password incorrect")
-            logging.errr(f"user or password incorrect: {username}")
+            print(" login user or password incorrect")
+            logging.error(f"login user or password incorrect: {username}")
     except Exception as e:
         print(f"Error login : {e}")
-        logging.error(f"Error: {e}")    
+        logging.error(f"Error: {e}") 
+        return error   
     finally:
         cursor.close()
         connection.close()
 
+def get_user(user_id : int):
+    connection = create_connection()
+    cursor = connection.cursor()
+    error = None 
+    try:
+       
+        #sql =  "SELECT * from members WHERE id  =%s ",(user_id,)
+        #print(sql)
+        cursor.execute("SELECT * from members WHERE id  =%s ",
+                       (user_id,))
+        user = cursor.fetchone()
+        if user:
+            print("get user Id success")
+            logging.info(f" get user id  success : {user_id}")
+            return user
+        else:
+            print("  get user id user or password incorrect")
+            logging.error(f"login user or password incorrect: {user_id}")
+    except Exception as e:
+        print(f"Error - get_user: {e}")
+        logging.error(f"Error -get_user : {e}") 
+        return error   
+    finally:
+        cursor.close()
+        connection.close()

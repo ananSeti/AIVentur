@@ -60,20 +60,26 @@
                   <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="leaders.html"> leaders</a>
+                  <a class="nav-link" href="{{ url_for('leader.leader')}}">leaders</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="about.html">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="Help Center.html">Help Center</a>
+                  <a class="nav-link" href="../templates/Help Center.html">Help Center</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="team.html">Team</a>
                 </li>
+                {%if g.user%}
                 <li class="nav-item">
-                  <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
+                  <a class="nav-link" href="{{ url_for('auth.logout')}}"> <i class="fa fa-user" aria-hidden="true"></i> {{ username }}  Logout</a>
                 </li>
+                {% else%}
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ url_for('auth.login')}}"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
+                </li>
+                {%endif%}
                 <form class="form-inline">
                   <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
                     <i class="fa fa-search" aria-hidden="true"></i>
