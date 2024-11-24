@@ -31,8 +31,9 @@ def register():
          except Exception as e:
              logging.error(f'error register member {e}')   
         else:        
-         return redirect(url_for("auth.login"))
-        
+           return redirect(url_for("auth.login"))
+     
+        flash(error)   
 
     return render_template('auth/register.html')    
 
@@ -57,8 +58,9 @@ def login():
             return redirect(url_for('index',username=user[1]))  # user name
         
         #return render_template('auth/register.html')
+        flash(error)
         return redirect(url_for('auth.register'))
-    return render_template('auth/login.html')
+    return render_template('auth/login.html',)
 
 @bp.before_app_request
 def load_logged_in_user():
